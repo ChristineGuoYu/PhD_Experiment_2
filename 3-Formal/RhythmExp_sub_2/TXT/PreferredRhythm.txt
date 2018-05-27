@@ -1,0 +1,32 @@
+﻿Preferred time interval: 345
+Preferred time interval: 305
+Preferred time interval: 596
+Preferred time interval: 482	01:14:01.933
+Preferred time interval: 264	05:28:32.400
+Preferred time interval: 298	05:37:37.074
+Preferred time interval: 273	05:38:59.266
+Preferred time interval: 270	06:12:54.060
+Preferred time interval: 274	11:58:45.701
+Preferred time interval: 270	02:18:49.216
+Preferred time interval: 278	03:35:22.916
+Preferred time interval: 299	03:38:32.520
+Preferred time interval: 305	11:13:32.219
+Preferred time interval: 379	11:25:01.814
+Preferred time interval: 299	11:51:48.549
+Preferred time interval: 287	02:48:40.814
+Preferred time interval: 260	02:49:25.621
+Preferred time interval: 260	02:50:09.869
+Preferred time interval: 273	02:50:56.445
+Preferred time interval: 271	02:52:39.998
+Preferred time interval: 274	03:32:30.783
+Preferred time interval: 266	03:32:55.623
+Preferred time interval: 282	03:35:23.391
+Preferred time interval: 274	03:36:42.672
+Preferred time interval: 660	02:44:22.751
+Preferred time interval: 660	02:54:39.072
+Preferred time interval: 660	03:02:11.716
+Preferred time interval: 260	03:08:59.824
+Preferred time interval: 267	03:38:08.201
+Preferred time interval: 260	03:58:43.779
+Preferred time interval: 660	05:20:44.643
+Preferred time interval: 285	05:35:17.365

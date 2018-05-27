@@ -1,0 +1,1040 @@
+﻿ComputerRhythmic	1	CorrectAnswer:	160
+ComputerRhythmic	1	EstimateAnswer:	1865
+ComputerRhythmic	2	CorrectAnswer:	2060
+ComputerRhythmic	2	EstimateAnswer:	2138
+ComputerRhythmic	3	CorrectAnswer:	160
+ComputerRhythmic	3	EstimateAnswer:	306
+ComputerRhythmic	1	CorrectAnswer:	820
+ComputerRhythmic	1	EstimateAnswer:	1045
+ComputerRhythmic	2	CorrectAnswer:	2060
+ComputerRhythmic	2	EstimateAnswer:	2356
+ComputerRhythmic	3	CorrectAnswer:	820
+ComputerRhythmic	3	EstimateAnswer:	908
+ComputerRhythmic	4	CorrectAnswer:	820
+ComputerRhythmic	4	EstimateAnswer:	923
+ComputerRhythmic	5	CorrectAnswer:	2060
+ComputerRhythmic	5	EstimateAnswer:	2260
+ComputerRhythmic	1	CorrectAnswer:	2060
+ComputerRhythmic	1	EstimateAnswer:	1202
+UserActivated	1	CorrectAnswer:	802
+UserActivated	1	EstimateAnswer:	1181
+UserActivated	2	CorrectAnswer:	2458
+UserActivated	2	EstimateAnswer:	1260
+UserActivated	3	CorrectAnswer:	195
+UserActivated	3	EstimateAnswer:	1746
+UserActivated	4	CorrectAnswer:	1178
+UserActivated	4	EstimateAnswer:	1605
+ComputerRhythmic	1	CorrectAnswer:	820
+ComputerRhythmic	1	EstimateAnswer:	1351
+ComputerRhythmic	2	CorrectAnswer:	2060
+ComputerRhythmic	2	EstimateAnswer:	1550
+ComputerRhythmic	3	CorrectAnswer:	820
+ComputerRhythmic	3	EstimateAnswer:	1278
+ComputerRhythmic	4	CorrectAnswer:	160
+ComputerRhythmic	4	EstimateAnswer:	1061
+ComputerRhythmic	5	CorrectAnswer:	820
+ComputerRhythmic	5	EstimateAnswer:	1071
+ComputerRhythmic	6	CorrectAnswer:	820
+ComputerRhythmic	6	EstimateAnswer:	1181
+ComputerRhythmic	7	CorrectAnswer:	160
+ComputerRhythmic	7	EstimateAnswer:	1314
+ComputerRhythmic	8	CorrectAnswer:	160
+ComputerRhythmic	8	EstimateAnswer:	1233
+ComputerRhythmic	9	CorrectAnswer:	160
+ComputerRhythmic	9	EstimateAnswer:	1270
+ComputerRhythmic	10	CorrectAnswer:	2060
+ComputerRhythmic	10	EstimateAnswer:	1202
+ComputerRhythmic	11	CorrectAnswer:	820
+ComputerRhythmic	11	EstimateAnswer:	1279
+ComputerRhythmic	12	CorrectAnswer:	160
+ComputerRhythmic	12	EstimateAnswer:	1408
+ComputerRhythmic	13	CorrectAnswer:	2060
+ComputerRhythmic	13	EstimateAnswer:	1290
+ComputerRhythmic	14	CorrectAnswer:	160
+ComputerRhythmic	14	EstimateAnswer:	1356
+ComputerRhythmic	15	CorrectAnswer:	160
+ComputerRhythmic	15	EstimateAnswer:	1158
+ComputerRhythmic	16	CorrectAnswer:	2060
+ComputerRhythmic	16	EstimateAnswer:	1189
+ComputerRhythmic	17	CorrectAnswer:	820
+ComputerRhythmic	17	EstimateAnswer:	986
+ComputerRhythmic	18	CorrectAnswer:	160
+ComputerRhythmic	18	EstimateAnswer:	1498
+ComputerRhythmic	19	CorrectAnswer:	2060
+ComputerRhythmic	19	EstimateAnswer:	1329
+ComputerRhythmic	20	CorrectAnswer:	820
+ComputerRhythmic	20	EstimateAnswer:	1138
+ComputerRhythmic	21	CorrectAnswer:	820
+ComputerRhythmic	21	EstimateAnswer:	1163
+ComputerRhythmic	22	CorrectAnswer:	160
+ComputerRhythmic	22	EstimateAnswer:	1027
+ComputerRhythmic	23	CorrectAnswer:	160
+ComputerRhythmic	23	EstimateAnswer:	1381
+ComputerRhythmic	24	CorrectAnswer:	820
+ComputerRhythmic	24	EstimateAnswer:	1249
+ComputerRhythmic	25	CorrectAnswer:	2060
+ComputerRhythmic	25	EstimateAnswer:	1539
+ComputerRhythmic	26	CorrectAnswer:	2060
+ComputerRhythmic	26	EstimateAnswer:	1223
+ComputerRhythmic	27	CorrectAnswer:	820
+ComputerRhythmic	27	EstimateAnswer:	1223
+ComputerRhythmic	28	CorrectAnswer:	2060
+ComputerRhythmic	28	EstimateAnswer:	1368
+ComputerRhythmic	29	CorrectAnswer:	2060
+ComputerRhythmic	29	EstimateAnswer:	1194
+ComputerRhythmic	30	CorrectAnswer:	2060
+ComputerRhythmic	30	EstimateAnswer:	1387
+ComputerRhythmic	50	Rating-1	Adaptation	05:03:22.350
+ComputerRhythmic	50	Rating-2	Control	05:03:22.353
+ComputerRhythmic	50	Rating-3	Intention	05:03:22.355
+ComputerRhythmic	50	Rating-4	Relaxation	05:03:22.357
+ComputerRhythmic	50	Rating-5	Smoothiness	05:03:22.359
+ComputerRhythmic	50	Rating-6	Confidence	05:03:22.362
+ComputerAperiodic	31	CorrectAnswer:	149
+ComputerAperiodic	31	EstimateAnswer:	1260
+ComputerAperiodic	32	CorrectAnswer:	2058
+ComputerAperiodic	32	EstimateAnswer:	1185
+ComputerAperiodic	33	CorrectAnswer:	167
+ComputerAperiodic	33	EstimateAnswer:	1260
+ComputerAperiodic	34	CorrectAnswer:	829
+ComputerAperiodic	34	EstimateAnswer:	1260
+ComputerAperiodic	35	CorrectAnswer:	2052
+ComputerAperiodic	35	EstimateAnswer:	1260
+ComputerAperiodic	36	CorrectAnswer:	813
+ComputerAperiodic	36	EstimateAnswer:	1267
+ComputerAperiodic	37	CorrectAnswer:	2054
+ComputerAperiodic	37	EstimateAnswer:	1357
+ComputerAperiodic	38	CorrectAnswer:	827
+ComputerAperiodic	38	EstimateAnswer:	1214
+ComputerAperiodic	39	CorrectAnswer:	2064
+ComputerAperiodic	39	EstimateAnswer:	1244
+ComputerAperiodic	40	CorrectAnswer:	819
+ComputerAperiodic	40	EstimateAnswer:	1325
+ComputerAperiodic	41	CorrectAnswer:	161
+ComputerAperiodic	41	EstimateAnswer:	1304
+ComputerAperiodic	42	CorrectAnswer:	153
+ComputerAperiodic	42	EstimateAnswer:	1260
+ComputerAperiodic	43	CorrectAnswer:	159
+ComputerAperiodic	43	EstimateAnswer:	1317
+ComputerAperiodic	44	CorrectAnswer:	818
+ComputerAperiodic	44	EstimateAnswer:	1372
+ComputerAperiodic	45	CorrectAnswer:	2062
+ComputerAperiodic	45	EstimateAnswer:	1309
+ComputerAperiodic	46	CorrectAnswer:	2058
+ComputerAperiodic	46	EstimateAnswer:	1229
+ComputerAperiodic	47	CorrectAnswer:	816
+ComputerAperiodic	47	EstimateAnswer:	1260
+ComputerAperiodic	48	CorrectAnswer:	158
+ComputerAperiodic	48	EstimateAnswer:	1218
+ComputerAperiodic	49	CorrectAnswer:	2050
+ComputerAperiodic	49	EstimateAnswer:	1286
+ComputerAperiodic	50	CorrectAnswer:	2064
+ComputerAperiodic	50	EstimateAnswer:	948
+ComputerAperiodic	51	CorrectAnswer:	2065
+ComputerAperiodic	51	EstimateAnswer:	1240
+ComputerAperiodic	52	CorrectAnswer:	2057
+ComputerAperiodic	52	EstimateAnswer:	1151
+ComputerAperiodic	53	CorrectAnswer:	818
+ComputerAperiodic	53	EstimateAnswer:	1311
+ComputerAperiodic	54	CorrectAnswer:	827
+ComputerAperiodic	54	EstimateAnswer:	1280
+ComputerAperiodic	55	CorrectAnswer:	167
+ComputerAperiodic	55	EstimateAnswer:	1210
+ComputerAperiodic	56	CorrectAnswer:	158
+ComputerAperiodic	56	EstimateAnswer:	1085
+ComputerAperiodic	57	CorrectAnswer:	162
+ComputerAperiodic	57	EstimateAnswer:	1208
+ComputerAperiodic	58	CorrectAnswer:	828
+ComputerAperiodic	58	EstimateAnswer:	1206
+ComputerAperiodic	59	CorrectAnswer:	157
+ComputerAperiodic	59	EstimateAnswer:	1175
+ComputerAperiodic	60	CorrectAnswer:	816
+ComputerAperiodic	60	EstimateAnswer:	1210
+ComputerAperiodic	50	Rating-1	Adaptation	05:08:13.790
+ComputerAperiodic	50	Rating-2	Control	05:08:13.793
+ComputerAperiodic	50	Rating-3	Intention	05:08:13.795
+ComputerAperiodic	50	Rating-4	Relaxation	05:08:13.798
+ComputerAperiodic	50	Rating-5	Smoothiness	05:08:13.800
+ComputerAperiodic	50	Rating-6	Confidence	05:08:13.802
+UserActivated	61	CorrectAnswer:	2083
+UserActivated	61	EstimateAnswer:	1076
+UserActivated	62	CorrectAnswer:	1643
+UserActivated	62	EstimateAnswer:	1158
+UserActivated	63	CorrectAnswer:	2483
+UserActivated	63	EstimateAnswer:	986
+UserActivated	64	CorrectAnswer:	2202
+UserActivated	64	EstimateAnswer:	2186
+UserActivated	65	CorrectAnswer:	1003
+UserActivated	65	EstimateAnswer:	1176
+UserActivated	66	CorrectAnswer:	1811
+UserActivated	66	EstimateAnswer:	1230
+UserActivated	67	CorrectAnswer:	755
+UserActivated	67	EstimateAnswer:	1088
+UserActivated	68	CorrectAnswer:	1907
+UserActivated	68	EstimateAnswer:	2087
+UserActivated	69	CorrectAnswer:	531
+UserActivated	69	EstimateAnswer:	635
+UserActivated	70	CorrectAnswer:	1115
+UserActivated	70	EstimateAnswer:	1302
+UserActivated	71	CorrectAnswer:	843
+UserActivated	71	EstimateAnswer:	1260
+UserActivated	72	CorrectAnswer:	2282
+UserActivated	72	EstimateAnswer:	1206
+UserActivated	73	CorrectAnswer:	1563
+UserActivated	73	EstimateAnswer:	1294
+ComputerRhythmic	1	CorrectAnswer:	2060
+ComputerRhythmic	1	EstimateAnswer:	1362
+ComputerRhythmic	2	CorrectAnswer:	820
+ComputerRhythmic	2	EstimateAnswer:	1141
+ComputerRhythmic	1	CorrectAnswer:	2112
+ComputerRhythmic	1	EstimateTextAnswer:	30
+ComputerRhythmic	1	CorrectAnswer:	122
+ComputerRhythmic	1	EstimateTextAnswer:	60
+ComputerRhythmic	1	CorrectAnswer:	2184
+ComputerRhythmic	1	EstimateTextAnswer:	7
+ComputerRhythmic	2	CorrectAnswer:	2457
+ComputerRhythmic	2	EstimateTextAnswer:	6
+ComputerRhythmic	3	CorrectAnswer:	2184
+ComputerRhythmic	3	EstimateTextAnswer:	8
+ComputerRhythmic	1	CorrectAnswer:	1890
+ComputerRhythmic	1	EstimateTextAnswer:	30
+ComputerRhythmic	2	CorrectAnswer:	1890
+ComputerRhythmic	2	EstimateTextAnswer:	43
+ComputerRhythmic	1	CorrectAnswer:	1890
+ComputerRhythmic	1	EstimateTextAnswer:	1
+ComputerRhythmic	2	CorrectAnswer:	2160
+ComputerRhythmic	2	EstimateTextAnswer:	1
+ComputerRhythmic	3	CorrectAnswer:	140
+ComputerRhythmic	3	EstimateTextAnswer:	1
+ComputerRhythmic	4	CorrectAnswer:	1890
+ComputerRhythmic	4	EstimateTextAnswer:	1
+ComputerRhythmic	5	CorrectAnswer:	2160
+ComputerRhythmic	5	EstimateTextAnswer:	2
+ComputerRhythmic	6	CorrectAnswer:	1890
+ComputerRhythmic	6	EstimateTextAnswer:	2
+ComputerRhythmic	7	CorrectAnswer:	2430
+ComputerRhythmic	7	EstimateTextAnswer:	1
+ComputerRhythmic	8	CorrectAnswer:	2160
+ComputerRhythmic	8	EstimateTextAnswer:	1
+ComputerRhythmic	9	CorrectAnswer:	2160
+ComputerRhythmic	9	EstimateTextAnswer:	1
+UserActivated	1	CorrectAnswer:	2225
+UserActivated	1	EstimateTextAnswer:	2
+UserActivated	2	CorrectAnswer:	772
+UserActivated	2	EstimateTextAnswer:	2
+UserActivated	3	CorrectAnswer:	2012
+UserActivated	3	EstimateTextAnswer:	6
+UserActivated	4	CorrectAnswer:	731
+UserActivated	4	EstimateTextAnswer:	2
+UserActivated	5	CorrectAnswer:	2228
+UserActivated	5	EstimateTextAnswer:	5
+UserActivated	6	CorrectAnswer:	1051
+UserActivated	6	EstimateTextAnswer:	5
+UserActivated	7	CorrectAnswer:	2203
+UserActivated	7	EstimateTextAnswer:	5
+UserActivated	8	CorrectAnswer:	1995
+UserActivated	8	EstimateTextAnswer:	2
+UserActivated	9	CorrectAnswer:	187
+UserActivated	9	EstimateTextAnswer:	3
+UserActivated	10	CorrectAnswer:	1651
+UserActivated	10	EstimateTextAnswer:	20
+UserActivated	11	CorrectAnswer:	1740
+UserActivated	11	EstimateTextAnswer:	30
+UserActivated	12	CorrectAnswer:	307
+UserActivated	12	EstimateTextAnswer:	50
+UserActivated	13	CorrectAnswer:	1507
+UserActivated	13	EstimateTextAnswer:	10
+UserActivated	14	CorrectAnswer:	419
+UserActivated	14	EstimateTextAnswer:	5
+ComputerAligned	1	CorrectAnswer:	1026
+ComputerAligned	1	EstimateTextAnswer:	1
+ComputerAligned	2	CorrectAnswer:	1225
+ComputerAligned	2	EstimateTextAnswer:	2
+ComputerAligned	3	CorrectAnswer:	648
+ComputerAligned	3	EstimateTextAnswer:	10
+ComputerAligned	4	CorrectAnswer:	387
+ComputerAligned	4	EstimateTextAnswer:	10
+ComputerRhythmic	1	CorrectAnswer:	2135
+ComputerRhythmic	1	EstimateTextAnswer:	1
+UserActivated	1	CorrectAnswer:	1891
+UserActivated	1	EstimateTextAnswer:	1
+ComputerRhythmic	1	CorrectAnswer:	23
+ComputerRhythmic	1	EstimateTextAnswer:	20
+ComputerRhythmic	2	CorrectAnswer:	2009
+ComputerRhythmic	2	EstimateTextAnswer:	20
+ComputerAperiodic	1	CorrectAnswer:	1757
+ComputerAperiodic	1	EstimateTextAnswer:	50
+ComputerAperiodic	2	CorrectAnswer:	1686
+ComputerAperiodic	2	EstimateTextAnswer:	50
+UserActivated	1	CorrectAnswer:	72
+UserActivated	1	EstimateTextAnswer:	50
+UserActivated	2	CorrectAnswer:	2121
+UserActivated	2	EstimateTextAnswer:	50
+ComputerAligned	1	CorrectAnswer:	169
+ComputerAligned	1	EstimateTextAnswer:	0
+ComputerAligned	2	CorrectAnswer:	1828
+ComputerAligned	2	EstimateTextAnswer:	5
+UserActivated	1	CorrectAnswer:	495
+UserActivated	1	EstimateTextAnswer:	50
+UserActivated	2	CorrectAnswer:	552
+UserActivated	2	EstimateTextAnswer:	5
+UserActivated	3	CorrectAnswer:	2388
+UserActivated	3	EstimateTextAnswer:	5
+UserActivated	1	CorrectAnswer:	2438
+UserActivated	1	EstimateTextAnswer:	55
+UserActivated	2	CorrectAnswer:	2255
+UserActivated	2	EstimateTextAnswer:	50
+UserActivated	3	CorrectAnswer:	1430
+UserActivated	3	EstimateTextAnswer:	32
+UserActivated	4	CorrectAnswer:	1863
+UserActivated	4	EstimateTextAnswer:	45
+UserActivated	5	CorrectAnswer:	839
+UserActivated	5	EstimateTextAnswer:	20
+UserActivated	6	CorrectAnswer:	2135
+UserActivated	6	EstimateTextAnswer:	52
+UserActivated	7	CorrectAnswer:	2215
+UserActivated	7	EstimateTextAnswer:	55
+UserActivated	8	CorrectAnswer:	2103
+UserActivated	8	EstimateTextAnswer:	55
+UserActivated	9	CorrectAnswer:	2223
+UserActivated	9	EstimateTextAnswer:	60
+UserActivated	10	CorrectAnswer:	2239
+UserActivated	10	EstimateTextAnswer:	50
+UserActivated	11	CorrectAnswer:	1254
+UserActivated	11	EstimateTextAnswer:	15
+UserActivated	12	CorrectAnswer:	255
+UserActivated	12	EstimateTextAnswer:	7
+UserActivated	13	CorrectAnswer:	2319
+UserActivated	13	EstimateTextAnswer:	52
+UserActivated	14	CorrectAnswer:	847
+UserActivated	14	EstimateTextAnswer:	22
+UserActivated	15	CorrectAnswer:	175
+UserActivated	15	EstimateTextAnswer:	15
+UserActivated	16	CorrectAnswer:	919
+UserActivated	16	EstimateTextAnswer:	23
+UserActivated	17	CorrectAnswer:	1823
+UserActivated	17	EstimateTextAnswer:	45
+UserActivated	18	CorrectAnswer:	1230
+UserActivated	18	EstimateTextAnswer:	28
+UserActivated	19	CorrectAnswer:	2463
+UserActivated	19	EstimateTextAnswer:	55
+UserActivated	20	CorrectAnswer:	615
+UserActivated	20	EstimateTextAnswer:	16
+UserActivated	21	CorrectAnswer:	1231
+UserActivated	21	EstimateTextAnswer:	32
+UserActivated	22	CorrectAnswer:	1759
+UserActivated	22	EstimateTextAnswer:	41
+UserActivated	23	CorrectAnswer:	263
+UserActivated	23	EstimateTextAnswer:	16
+UserActivated	24	CorrectAnswer:	599
+UserActivated	24	EstimateTextAnswer:	25
+UserActivated	25	CorrectAnswer:	2454
+UserActivated	25	EstimateTextAnswer:	10
+UserActivated	26	CorrectAnswer:	792
+UserActivated	26	EstimateTextAnswer:	24
+UserActivated	27	CorrectAnswer:	2518
+UserActivated	27	EstimateTextAnswer:	60
+UserActivated	28	CorrectAnswer:	2407
+UserActivated	28	EstimateTextAnswer:	57
+UserActivated	29	CorrectAnswer:	943
+UserActivated	29	EstimateTextAnswer:	28
+UserActivated	30	CorrectAnswer:	967
+UserActivated	30	EstimateTextAnswer:	25
+02:53:31.765	UserActivated	62	Rating-1	Adaptation
+02:53:31.766	UserActivated	24	Rating-2	Control
+02:53:31.767	UserActivated	50	Rating-3	Intention
+02:53:31.767	UserActivated	63	Rating-4	Relaxation
+02:53:31.768	UserActivated	57	Rating-5	Smoothiness
+02:53:31.768	UserActivated	50	Rating-6	Confidence
+02:53:31.769	UserActivated	14	Rating-1	TLX-1
+02:53:31.769	UserActivated	15	Rating-2	TLX-2
+02:53:31.770	UserActivated	12	Rating-3	TLX-3
+02:53:31.770	UserActivated	10	Rating-4	TLX-4
+02:53:31.770	UserActivated	15	Rating-5	TLX-5
+02:53:31.771	UserActivated	13	Rating-6	TLX-5
+ComputerRhythmic	31	CorrectAnswer:	2060
+ComputerRhythmic	31	EstimateTextAnswer:	50
+ComputerRhythmic	1	CorrectAnswer:	820
+ComputerRhythmic	1	EstimateTextAnswer:	24
+ComputerRhythmic	2	CorrectAnswer:	1480
+ComputerRhythmic	2	EstimateTextAnswer:	37
+ComputerRhythmic	3	CorrectAnswer:	1480
+ComputerRhythmic	3	EstimateTextAnswer:	24
+ComputerRhythmic	4	CorrectAnswer:	1480
+ComputerRhythmic	4	EstimateTextAnswer:	40
+ComputerRhythmic	5	CorrectAnswer:	2060
+ComputerRhythmic	5	EstimateTextAnswer:	53
+ComputerRhythmic	6	CorrectAnswer:	2060
+ComputerRhythmic	6	EstimateTextAnswer:	50
+ComputerRhythmic	7	CorrectAnswer:	2060
+ComputerRhythmic	7	EstimateTextAnswer:	55
+ComputerRhythmic	8	CorrectAnswer:	820
+ComputerRhythmic	8	EstimateTextAnswer:	26
+ComputerRhythmic	9	CorrectAnswer:	820
+ComputerRhythmic	9	EstimateTextAnswer:	35
+ComputerRhythmic	10	CorrectAnswer:	160
+ComputerRhythmic	10	EstimateTextAnswer:	13
+ComputerRhythmic	11	CorrectAnswer:	2060
+ComputerRhythmic	11	EstimateTextAnswer:	57
+ComputerRhythmic	12	CorrectAnswer:	820
+ComputerRhythmic	12	EstimateTextAnswer:	30
+ComputerRhythmic	13	CorrectAnswer:	2060
+ComputerRhythmic	13	EstimateTextAnswer:	50
+ComputerRhythmic	14	CorrectAnswer:	2060
+ComputerRhythmic	14	EstimateTextAnswer:	52
+ComputerRhythmic	15	CorrectAnswer:	160
+ComputerRhythmic	15	EstimateTextAnswer:	5
+ComputerRhythmic	16	CorrectAnswer:	2060
+ComputerRhythmic	16	EstimateTextAnswer:	50
+ComputerRhythmic	17	CorrectAnswer:	160
+ComputerRhythmic	17	EstimateTextAnswer:	7
+ComputerRhythmic	18	CorrectAnswer:	2060
+ComputerRhythmic	18	EstimateTextAnswer:	50
+ComputerRhythmic	19	CorrectAnswer:	2060
+ComputerRhythmic	19	EstimateTextAnswer:	50
+ComputerRhythmic	20	CorrectAnswer:	160
+ComputerRhythmic	20	EstimateTextAnswer:	12
+ComputerRhythmic	21	CorrectAnswer:	160
+ComputerRhythmic	21	EstimateTextAnswer:	10
+ComputerRhythmic	22	CorrectAnswer:	820
+ComputerRhythmic	22	EstimateTextAnswer:	24
+ComputerRhythmic	23	CorrectAnswer:	820
+ComputerRhythmic	23	EstimateTextAnswer:	20
+ComputerRhythmic	24	CorrectAnswer:	820
+ComputerRhythmic	24	EstimateTextAnswer:	24
+ComputerRhythmic	25	CorrectAnswer:	820
+ComputerRhythmic	25	EstimateTextAnswer:	25
+ComputerRhythmic	26	CorrectAnswer:	820
+ComputerRhythmic	26	EstimateTextAnswer:	20
+ComputerRhythmic	27	CorrectAnswer:	160
+ComputerRhythmic	27	EstimateTextAnswer:	20
+ComputerRhythmic	28	CorrectAnswer:	160
+ComputerRhythmic	28	EstimateTextAnswer:	35
+ComputerRhythmic	29	CorrectAnswer:	160
+ComputerRhythmic	29	EstimateTextAnswer:	15
+ComputerRhythmic	30	CorrectAnswer:	160
+ComputerRhythmic	30	EstimateTextAnswer:	12
+03:01:04.147	ComputerRhythmic	53	Rating-1	Adaptation
+03:01:04.149	ComputerRhythmic	46	Rating-2	Control
+03:01:04.149	ComputerRhythmic	38	Rating-3	Intention
+03:01:04.149	ComputerRhythmic	55	Rating-4	Relaxation
+03:01:04.150	ComputerRhythmic	44	Rating-5	Smoothiness
+03:01:04.150	ComputerRhythmic	56	Rating-6	Confidence
+03:01:04.151	ComputerRhythmic	13	Rating-1	TLX-1
+03:01:04.151	ComputerRhythmic	6	Rating-2	TLX-2
+03:01:04.151	ComputerRhythmic	10	Rating-3	TLX-3
+03:01:04.152	ComputerRhythmic	9	Rating-4	TLX-4
+03:01:04.152	ComputerRhythmic	13	Rating-5	TLX-5
+03:01:04.152	ComputerRhythmic	12	Rating-6	TLX-5
+ComputerAperiodic	31	CorrectAnswer:	819
+ComputerAperiodic	31	EstimateTextAnswer:	22
+ComputerAperiodic	1	CorrectAnswer:	819
+ComputerAperiodic	1	EstimateTextAnswer:	27
+ComputerAperiodic	2	CorrectAnswer:	820
+ComputerAperiodic	2	EstimateTextAnswer:	20
+ComputerAperiodic	3	CorrectAnswer:	825
+ComputerAperiodic	3	EstimateTextAnswer:	22
+ComputerAperiodic	4	CorrectAnswer:	154
+ComputerAperiodic	4	EstimateTextAnswer:	45
+ComputerAperiodic	5	CorrectAnswer:	2056
+ComputerAperiodic	5	EstimateTextAnswer:	5
+ComputerAperiodic	6	CorrectAnswer:	152
+ComputerAperiodic	6	EstimateTextAnswer:	20
+ComputerAperiodic	7	CorrectAnswer:	2064
+ComputerAperiodic	7	EstimateTextAnswer:	10
+ComputerAperiodic	8	CorrectAnswer:	815
+ComputerAperiodic	8	EstimateTextAnswer:	20
+ComputerAperiodic	9	CorrectAnswer:	1471
+ComputerAperiodic	9	EstimateTextAnswer:	35
+ComputerAperiodic	10	CorrectAnswer:	2055
+ComputerAperiodic	10	EstimateTextAnswer:	50
+ComputerAperiodic	11	CorrectAnswer:	2070
+ComputerAperiodic	11	EstimateTextAnswer:	50
+ComputerAperiodic	12	CorrectAnswer:	815
+ComputerAperiodic	12	EstimateTextAnswer:	25
+ComputerAperiodic	13	CorrectAnswer:	154
+ComputerAperiodic	13	EstimateTextAnswer:	20
+ComputerAperiodic	14	CorrectAnswer:	1487
+ComputerAperiodic	14	EstimateTextAnswer:	40
+ComputerAperiodic	15	CorrectAnswer:	820
+ComputerAperiodic	15	EstimateTextAnswer:	23
+ComputerAperiodic	16	CorrectAnswer:	2064
+ComputerAperiodic	16	EstimateTextAnswer:	55
+ComputerAperiodic	17	CorrectAnswer:	2053
+ComputerAperiodic	17	EstimateTextAnswer:	50
+ComputerAperiodic	18	CorrectAnswer:	1481
+ComputerAperiodic	18	EstimateTextAnswer:	40
+ComputerAperiodic	19	CorrectAnswer:	153
+ComputerAperiodic	19	EstimateTextAnswer:	20
+ComputerAperiodic	20	CorrectAnswer:	2061
+ComputerAperiodic	20	EstimateTextAnswer:	50
+ComputerAperiodic	21	CorrectAnswer:	150
+ComputerAperiodic	21	EstimateTextAnswer:	10
+ComputerAperiodic	22	CorrectAnswer:	826
+ComputerAperiodic	22	EstimateTextAnswer:	20
+ComputerAperiodic	23	CorrectAnswer:	818
+ComputerAperiodic	23	EstimateTextAnswer:	20
+ComputerAperiodic	24	CorrectAnswer:	2068
+ComputerAperiodic	24	EstimateTextAnswer:	50
+ComputerAperiodic	25	CorrectAnswer:	819
+ComputerAperiodic	25	EstimateTextAnswer:	22
+ComputerAperiodic	26	CorrectAnswer:	2070
+ComputerAperiodic	26	EstimateTextAnswer:	53
+ComputerAperiodic	27	CorrectAnswer:	161
+ComputerAperiodic	27	EstimateTextAnswer:	12
+ComputerAperiodic	28	CorrectAnswer:	169
+ComputerAperiodic	28	EstimateTextAnswer:	15
+ComputerAperiodic	29	CorrectAnswer:	159
+ComputerAperiodic	29	EstimateTextAnswer:	15
+ComputerAperiodic	30	CorrectAnswer:	166
+ComputerAperiodic	30	EstimateTextAnswer:	10
+03:08:35.375	ComputerAperiodic	58	Rating-1	Adaptation
+03:08:35.376	ComputerAperiodic	60	Rating-2	Control
+03:08:35.376	ComputerAperiodic	41	Rating-3	Intention
+03:08:35.377	ComputerAperiodic	37	Rating-4	Relaxation
+03:08:35.377	ComputerAperiodic	39	Rating-5	Smoothiness
+03:08:35.378	ComputerAperiodic	35	Rating-6	Confidence
+03:08:35.378	ComputerAperiodic	9	Rating-1	TLX-1
+03:08:35.378	ComputerAperiodic	5	Rating-2	TLX-2
+03:08:35.379	ComputerAperiodic	8	Rating-3	TLX-3
+03:08:35.379	ComputerAperiodic	9	Rating-4	TLX-4
+03:08:35.379	ComputerAperiodic	9	Rating-5	TLX-5
+03:08:35.380	ComputerAperiodic	9	Rating-6	TLX-5
+ComputerAligned	1	CorrectAnswer:	995
+ComputerAligned	1	EstimateTextAnswer:	25
+ComputerAligned	2	CorrectAnswer:	1429
+ComputerAligned	2	EstimateTextAnswer:	40
+ComputerAligned	3	CorrectAnswer:	2127
+ComputerAligned	3	EstimateTextAnswer:	10
+ComputerAligned	4	CorrectAnswer:	303
+ComputerAligned	4	EstimateTextAnswer:	10
+ComputerAligned	5	CorrectAnswer:	1869
+ComputerAligned	5	EstimateTextAnswer:	45
+ComputerAligned	6	CorrectAnswer:	2300
+ComputerAligned	6	EstimateTextAnswer:	2
+ComputerAligned	7	CorrectAnswer:	2478
+ComputerAligned	7	EstimateTextAnswer:	60
+ComputerAligned	8	CorrectAnswer:	798
+ComputerAligned	8	EstimateTextAnswer:	22
+ComputerAligned	9	CorrectAnswer:	1390
+ComputerAligned	9	EstimateTextAnswer:	40
+ComputerAligned	10	CorrectAnswer:	2116
+ComputerAligned	10	EstimateTextAnswer:	55
+ComputerAligned	11	CorrectAnswer:	1395
+ComputerAligned	11	EstimateTextAnswer:	33
+ComputerAligned	12	CorrectAnswer:	1406
+ComputerAligned	12	EstimateTextAnswer:	40
+ComputerAligned	13	CorrectAnswer:	1139
+ComputerAligned	13	EstimateTextAnswer:	40
+ComputerAligned	14	CorrectAnswer:	2165
+ComputerAligned	14	EstimateTextAnswer:	60
+ComputerAligned	15	CorrectAnswer:	1453
+ComputerAligned	15	EstimateTextAnswer:	40
+ComputerAligned	16	CorrectAnswer:	1997
+ComputerAligned	16	EstimateTextAnswer:	50
+ComputerAligned	17	CorrectAnswer:	385
+ComputerAligned	17	EstimateTextAnswer:	15
+ComputerAligned	18	CorrectAnswer:	797
+ComputerAligned	18	EstimateTextAnswer:	25
+ComputerAligned	19	CorrectAnswer:	256
+ComputerAligned	19	EstimateTextAnswer:	14
+ComputerAligned	20	CorrectAnswer:	190
+ComputerAligned	20	EstimateTextAnswer:	15
+ComputerAligned	21	CorrectAnswer:	2087
+ComputerAligned	21	EstimateTextAnswer:	50
+ComputerAligned	22	CorrectAnswer:	2060
+ComputerAligned	22	EstimateTextAnswer:	55
+ComputerAligned	23	CorrectAnswer:	2332
+ComputerAligned	23	EstimateTextAnswer:	60
+ComputerAligned	24	CorrectAnswer:	47
+ComputerAligned	24	EstimateTextAnswer:	3
+ComputerAligned	25	CorrectAnswer:	510
+ComputerAligned	25	EstimateTextAnswer:	15
+ComputerAligned	26	CorrectAnswer:	748
+ComputerAligned	26	EstimateTextAnswer:	25
+ComputerAligned	27	CorrectAnswer:	222
+ComputerAligned	27	EstimateTextAnswer:	20
+ComputerAligned	28	CorrectAnswer:	708
+ComputerAligned	28	EstimateTextAnswer:	25
+ComputerAligned	29	CorrectAnswer:	2415
+ComputerAligned	29	EstimateTextAnswer:	2
+ComputerAligned	30	CorrectAnswer:	2478
+ComputerAligned	30	EstimateTextAnswer:	60
+03:15:17.110	ComputerAligned	34	Rating-1	Adaptation
+03:15:17.111	ComputerAligned	34	Rating-2	Control
+03:15:17.112	ComputerAligned	41	Rating-3	Intention
+03:15:17.112	ComputerAligned	50	Rating-4	Relaxation
+03:15:17.112	ComputerAligned	39	Rating-5	Smoothiness
+03:15:17.113	ComputerAligned	45	Rating-6	Confidence
+03:15:17.113	ComputerAligned	10	Rating-1	TLX-1
+03:15:17.114	ComputerAligned	14	Rating-2	TLX-2
+03:15:17.114	ComputerAligned	10	Rating-3	TLX-3
+03:15:17.115	ComputerAligned	9	Rating-4	TLX-4
+03:15:17.115	ComputerAligned	12	Rating-5	TLX-5
+03:15:17.115	ComputerAligned	10	Rating-6	TLX-5
+UserActivated	1	CorrectAnswer:	2510
+UserActivated	1	EstimateTextAnswer:	1
+UserActivated	2	CorrectAnswer:	927
+UserActivated	2	EstimateTextAnswer:	2
+UserActivated	3	CorrectAnswer:	639
+UserActivated	3	EstimateTextAnswer:	3
+UserActivated	4	CorrectAnswer:	2287
+UserActivated	4	EstimateTextAnswer:	4
+UserActivated	5	CorrectAnswer:	1111
+UserActivated	5	EstimateTextAnswer:	5
+UserActivated	6	CorrectAnswer:	2087
+UserActivated	6	EstimateTextAnswer:	6
+UserActivated	7	CorrectAnswer:	1046
+UserActivated	7	EstimateTextAnswer:	7
+UserActivated	8	CorrectAnswer:	727
+UserActivated	8	EstimateTextAnswer:	8
+UserActivated	9	CorrectAnswer:	1711
+UserActivated	9	EstimateTextAnswer:	9
+UserActivated	10	CorrectAnswer:	1063
+UserActivated	10	EstimateTextAnswer:	10
+UserActivated	11	CorrectAnswer:	2071
+UserActivated	11	EstimateTextAnswer:	11
+UserActivated	12	CorrectAnswer:	1662
+UserActivated	12	EstimateTextAnswer:	12
+UserActivated	13	CorrectAnswer:	1847
+UserActivated	13	EstimateTextAnswer:	13
+UserActivated	14	CorrectAnswer:	1319
+UserActivated	14	EstimateTextAnswer:	14
+UserActivated	15	CorrectAnswer:	2223
+UserActivated	15	EstimateTextAnswer:	15
+UserActivated	16	CorrectAnswer:	566
+UserActivated	16	EstimateTextAnswer:	15
+UserActivated	17	CorrectAnswer:	895
+UserActivated	17	EstimateTextAnswer:	16
+UserActivated	18	CorrectAnswer:	2031
+UserActivated	18	EstimateTextAnswer:	17
+UserActivated	19	CorrectAnswer:	2447
+UserActivated	19	EstimateTextAnswer:	10
+UserActivated	20	CorrectAnswer:	423
+UserActivated	20	EstimateTextAnswer:	18
+UserActivated	21	CorrectAnswer:	328
+UserActivated	21	EstimateTextAnswer:	19
+UserActivated	22	CorrectAnswer:	1790
+UserActivated	22	EstimateTextAnswer:	20
+UserActivated	23	CorrectAnswer:	2512
+UserActivated	23	EstimateTextAnswer:	21
+UserActivated	24	CorrectAnswer:	2039
+UserActivated	24	EstimateTextAnswer:	22
+UserActivated	25	CorrectAnswer:	1711
+UserActivated	25	EstimateTextAnswer:	23
+UserActivated	26	CorrectAnswer:	167
+UserActivated	26	EstimateTextAnswer:	25
+UserActivated	27	CorrectAnswer:	2191
+UserActivated	27	EstimateTextAnswer:	25
+UserActivated	28	CorrectAnswer:	86
+UserActivated	28	EstimateTextAnswer:	26
+UserActivated	29	CorrectAnswer:	1103
+UserActivated	29	EstimateTextAnswer:	27
+UserActivated	30	CorrectAnswer:	1144
+UserActivated	30	EstimateTextAnswer:	28
+03:44:31.160	UserActivated	50	Rating-1	Adaptation
+03:44:31.161	UserActivated	50	Rating-2	Control
+03:44:31.161	UserActivated	50	Rating-3	Intention
+03:44:31.162	UserActivated	50	Rating-4	Relaxation
+03:44:31.162	UserActivated	50	Rating-5	Smoothiness
+03:44:31.163	UserActivated	50	Rating-6	Confidence
+03:44:31.163	UserActivated	11	Rating-1	TLX-1
+03:44:31.163	UserActivated	11	Rating-2	TLX-2
+03:44:31.164	UserActivated	11	Rating-3	TLX-3
+03:44:31.164	UserActivated	11	Rating-4	TLX-4
+03:44:31.164	UserActivated	11	Rating-5	TLX-5
+03:44:31.165	UserActivated	11	Rating-6	TLX-5
+ComputerAligned	31	CorrectAnswer:	94
+ComputerAligned	31	EstimateTextAnswer:	10
+UserActivated	1	CorrectAnswer:	1983
+UserActivated	1	EstimateTextAnswer:	1
+UserActivated	2	CorrectAnswer:	983
+UserActivated	2	EstimateTextAnswer:	2
+UserActivated	3	CorrectAnswer:	358
+UserActivated	3	EstimateTextAnswer:	3
+UserActivated	4	CorrectAnswer:	1478
+UserActivated	4	EstimateTextAnswer:	4
+UserActivated	5	CorrectAnswer:	2471
+UserActivated	5	EstimateTextAnswer:	5
+UserActivated	6	CorrectAnswer:	2207
+UserActivated	6	EstimateTextAnswer:	6
+UserActivated	7	CorrectAnswer:	1751
+UserActivated	7	EstimateTextAnswer:	7
+UserActivated	8	CorrectAnswer:	1727
+UserActivated	8	EstimateTextAnswer:	8
+UserActivated	9	CorrectAnswer:	1560
+UserActivated	9	EstimateTextAnswer:	9
+UserActivated	10	CorrectAnswer:	159
+UserActivated	10	EstimateTextAnswer:	11
+UserActivated	11	CorrectAnswer:	151
+UserActivated	11	EstimateTextAnswer:	12
+UserActivated	12	CorrectAnswer:	1647
+UserActivated	12	EstimateTextAnswer:	13
+UserActivated	13	CorrectAnswer:	486
+UserActivated	13	EstimateTextAnswer:	14
+UserActivated	14	CorrectAnswer:	2351
+UserActivated	14	EstimateTextAnswer:	15
+UserActivated	15	CorrectAnswer:	943
+UserActivated	15	EstimateTextAnswer:	16
+UserActivated	16	CorrectAnswer:	1374
+UserActivated	16	EstimateTextAnswer:	17
+UserActivated	17	CorrectAnswer:	1112
+UserActivated	17	EstimateTextAnswer:	18
+UserActivated	18	CorrectAnswer:	2126
+UserActivated	18	EstimateTextAnswer:	19
+UserActivated	19	CorrectAnswer:	2519
+UserActivated	19	EstimateTextAnswer:	20
+UserActivated	20	CorrectAnswer:	375
+UserActivated	20	EstimateTextAnswer:	21
+UserActivated	21	CorrectAnswer:	271
+UserActivated	21	EstimateTextAnswer:	22
+UserActivated	22	CorrectAnswer:	1863
+UserActivated	22	EstimateTextAnswer:	23
+UserActivated	23	CorrectAnswer:	1847
+UserActivated	23	EstimateTextAnswer:	24
+UserActivated	24	CorrectAnswer:	1703
+UserActivated	24	EstimateTextAnswer:	25
+UserActivated	25	CorrectAnswer:	126
+UserActivated	25	EstimateTextAnswer:	26
+UserActivated	26	CorrectAnswer:	855
+UserActivated	26	EstimateTextAnswer:	27
+UserActivated	27	CorrectAnswer:	2359
+UserActivated	27	EstimateTextAnswer:	28
+UserActivated	28	CorrectAnswer:	879
+UserActivated	28	EstimateTextAnswer:	30
+UserActivated	29	CorrectAnswer:	1344
+UserActivated	29	EstimateTextAnswer:	30
+UserActivated	30	CorrectAnswer:	519
+UserActivated	30	EstimateTextAnswer:	22
+04:05:12.577	UserActivated	50	Rating-1	Adaptation
+04:05:12.578	UserActivated	50	Rating-2	Control
+04:05:12.579	UserActivated	50	Rating-3	Intention
+04:05:12.579	UserActivated	50	Rating-4	Relaxation
+04:05:12.579	UserActivated	50	Rating-5	Smoothiness
+04:05:12.580	UserActivated	50	Rating-6	Confidence
+04:05:12.580	UserActivated	11	Rating-1	TLX-1
+04:05:12.580	UserActivated	11	Rating-2	TLX-2
+04:05:12.581	UserActivated	11	Rating-3	TLX-3
+04:05:12.581	UserActivated	11	Rating-4	TLX-4
+04:05:12.582	UserActivated	11	Rating-5	TLX-5
+04:05:12.582	UserActivated	11	Rating-6	TLX-5
+ComputerRhythmic	31	CorrectAnswer:	40
+ComputerRhythmic	31	EstimateTextAnswer:	1
+ComputerRhythmic	32	CorrectAnswer:	1820
+ComputerRhythmic	32	EstimateTextAnswer:	10
+ComputerRhythmic	33	CorrectAnswer:	2340
+ComputerRhythmic	33	EstimateTextAnswer:	3
+ComputerRhythmic	34	CorrectAnswer:	1820
+ComputerRhythmic	34	EstimateTextAnswer:	4
+ComputerRhythmic	35	CorrectAnswer:	2340
+ComputerRhythmic	35	EstimateTextAnswer:	5
+ComputerRhythmic	36	CorrectAnswer:	2080
+ComputerRhythmic	36	EstimateTextAnswer:	6
+ComputerRhythmic	37	CorrectAnswer:	1820
+ComputerRhythmic	37	EstimateTextAnswer:	7
+ComputerRhythmic	38	CorrectAnswer:	1820
+ComputerRhythmic	38	EstimateTextAnswer:	8
+ComputerRhythmic	39	CorrectAnswer:	40
+ComputerRhythmic	39	EstimateTextAnswer:	9
+ComputerRhythmic	40	CorrectAnswer:	2080
+ComputerRhythmic	40	EstimateTextAnswer:	10
+ComputerRhythmic	41	CorrectAnswer:	2080
+ComputerRhythmic	41	EstimateTextAnswer:	11
+ComputerRhythmic	42	CorrectAnswer:	40
+ComputerRhythmic	42	EstimateTextAnswer:	13
+ComputerRhythmic	43	CorrectAnswer:	2340
+ComputerRhythmic	43	EstimateTextAnswer:	14
+ComputerRhythmic	44	CorrectAnswer:	1820
+ComputerRhythmic	44	EstimateTextAnswer:	15
+ComputerRhythmic	45	CorrectAnswer:	2340
+ComputerRhythmic	45	EstimateTextAnswer:	16
+ComputerRhythmic	46	CorrectAnswer:	2340
+ComputerRhythmic	46	EstimateTextAnswer:	18
+ComputerRhythmic	47	CorrectAnswer:	2340
+ComputerRhythmic	47	EstimateTextAnswer:	19
+ComputerRhythmic	48	CorrectAnswer:	1820
+ComputerRhythmic	48	EstimateTextAnswer:	19
+ComputerRhythmic	49	CorrectAnswer:	2080
+ComputerRhythmic	49	EstimateTextAnswer:	1
+ComputerRhythmic	50	CorrectAnswer:	2080
+ComputerRhythmic	50	EstimateTextAnswer:	19
+ComputerRhythmic	51	CorrectAnswer:	2080
+ComputerRhythmic	51	EstimateTextAnswer:	20
+ComputerRhythmic	52	CorrectAnswer:	1820
+ComputerRhythmic	52	EstimateTextAnswer:	22
+ComputerRhythmic	53	CorrectAnswer:	1820
+ComputerRhythmic	53	EstimateTextAnswer:	26
+ComputerRhythmic	54	CorrectAnswer:	1820
+ComputerRhythmic	54	EstimateTextAnswer:	25
+ComputerRhythmic	55	CorrectAnswer:	2080
+ComputerRhythmic	55	EstimateTextAnswer:	26
+ComputerRhythmic	56	CorrectAnswer:	2340
+ComputerRhythmic	56	EstimateTextAnswer:	27
+ComputerRhythmic	57	CorrectAnswer:	2080
+ComputerRhythmic	57	EstimateTextAnswer:	28
+ComputerRhythmic	58	CorrectAnswer:	2340
+ComputerRhythmic	58	EstimateTextAnswer:	29
+ComputerRhythmic	59	CorrectAnswer:	2340
+ComputerRhythmic	59	EstimateTextAnswer:	29
+ComputerRhythmic	60	CorrectAnswer:	2080
+ComputerRhythmic	60	EstimateTextAnswer:	30
+04:11:50.463	ComputerRhythmic	50	Rating-1	Adaptation
+04:11:50.464	ComputerRhythmic	50	Rating-2	Control
+04:11:50.464	ComputerRhythmic	50	Rating-3	Intention
+04:11:50.465	ComputerRhythmic	50	Rating-4	Relaxation
+04:11:50.465	ComputerRhythmic	50	Rating-5	Smoothiness
+04:11:50.465	ComputerRhythmic	50	Rating-6	Confidence
+04:11:50.466	ComputerRhythmic	11	Rating-1	TLX-1
+04:11:50.466	ComputerRhythmic	11	Rating-2	TLX-2
+04:11:50.466	ComputerRhythmic	11	Rating-3	TLX-3
+04:11:50.467	ComputerRhythmic	11	Rating-4	TLX-4
+04:11:50.467	ComputerRhythmic	11	Rating-5	TLX-5
+04:11:50.468	ComputerRhythmic	11	Rating-6	TLX-5
+ComputerAperiodic	61	CorrectAnswer:	819
+ComputerAperiodic	61	EstimateTextAnswer:	1
+ComputerAperiodic	62	CorrectAnswer:	820
+ComputerAperiodic	62	EstimateTextAnswer:	3
+ComputerAperiodic	63	CorrectAnswer:	825
+ComputerAperiodic	63	EstimateTextAnswer:	4
+ComputerRhythmic	1	CorrectAnswer:	160
+ComputerRhythmic	1	EstimateTextAnswer:	10
+ComputerRhythmic	1	CorrectAnswer:	2280
+ComputerRhythmic	1	EstimateTextAnswer:	1
+ComputerRhythmic	2	CorrectAnswer:	2280
+ComputerRhythmic	2	EstimateTextAnswer:	2
+ComputerRhythmic	3	CorrectAnswer:	2280
+ComputerRhythmic	3	EstimateTextAnswer:	3
+ComputerRhythmic	4	CorrectAnswer:	2280
+ComputerRhythmic	4	EstimateTextAnswer:	4
+ComputerRhythmic	5	CorrectAnswer:	290
+ComputerRhythmic	5	EstimateTextAnswer:	5
+ComputerRhythmic	6	CorrectAnswer:	5
+ComputerRhythmic	6	EstimateTextAnswer:	6
+ComputerRhythmic	7	CorrectAnswer:	2280
+ComputerRhythmic	7	EstimateTextAnswer:	7
+ComputerRhythmic	8	CorrectAnswer:	1995
+ComputerRhythmic	8	EstimateTextAnswer:	8
+ComputerRhythmic	9	CorrectAnswer:	290
+ComputerRhythmic	9	EstimateTextAnswer:	9
+ComputerRhythmic	10	CorrectAnswer:	290
+ComputerRhythmic	10	EstimateTextAnswer:	10
+ComputerRhythmic	11	CorrectAnswer:	2280
+ComputerRhythmic	11	EstimateTextAnswer:	11
+ComputerRhythmic	12	CorrectAnswer:	1995
+ComputerRhythmic	12	EstimateTextAnswer:	12
+ComputerRhythmic	13	CorrectAnswer:	2280
+ComputerRhythmic	13	EstimateTextAnswer:	13
+ComputerRhythmic	14	CorrectAnswer:	1995
+ComputerRhythmic	14	EstimateTextAnswer:	14
+ComputerRhythmic	15	CorrectAnswer:	1995
+ComputerRhythmic	15	EstimateTextAnswer:	15
+ComputerRhythmic	16	CorrectAnswer:	1995
+ComputerRhythmic	16	EstimateTextAnswer:	16
+ComputerRhythmic	17	CorrectAnswer:	1995
+ComputerRhythmic	17	EstimateTextAnswer:	17
+ComputerRhythmic	18	CorrectAnswer:	5
+ComputerRhythmic	18	EstimateTextAnswer:	18
+ComputerRhythmic	19	CorrectAnswer:	1995
+ComputerRhythmic	19	EstimateTextAnswer:	19
+ComputerRhythmic	20	CorrectAnswer:	5
+ComputerRhythmic	20	EstimateTextAnswer:	20
+ComputerRhythmic	21	CorrectAnswer:	5
+ComputerRhythmic	21	EstimateTextAnswer:	21
+ComputerRhythmic	22	CorrectAnswer:	5
+ComputerRhythmic	22	EstimateTextAnswer:	22
+ComputerRhythmic	23	CorrectAnswer:	5
+ComputerRhythmic	23	EstimateTextAnswer:	23
+ComputerRhythmic	24	CorrectAnswer:	5
+ComputerRhythmic	24	EstimateTextAnswer:	24
+05:38:19.740	ComputerRhythmic	50	Rating-1	Adaptation
+05:38:19.741	ComputerRhythmic	50	Rating-2	Control
+05:38:19.741	ComputerRhythmic	50	Rating-3	Intention
+05:38:19.742	ComputerRhythmic	50	Rating-4	Relaxation
+05:38:19.742	ComputerRhythmic	50	Rating-5	Smoothiness
+05:38:19.742	ComputerRhythmic	50	Rating-6	Confidence
+05:38:19.743	ComputerRhythmic	11	Rating-1	TLX-1
+05:38:19.743	ComputerRhythmic	11	Rating-2	TLX-2
+05:38:19.744	ComputerRhythmic	11	Rating-3	TLX-3
+05:38:19.744	ComputerRhythmic	11	Rating-4	TLX-4
+05:38:19.744	ComputerRhythmic	11	Rating-5	TLX-5
+05:38:19.745	ComputerRhythmic	11	Rating-6	TLX-5
+ComputerAperiodic	25	CorrectAnswer:	819
+ComputerAperiodic	25	EstimateTextAnswer:	1
+ComputerAperiodic	26	CorrectAnswer:	820
+ComputerAperiodic	26	EstimateTextAnswer:	2
+ComputerAperiodic	27	CorrectAnswer:	825
+ComputerAperiodic	27	EstimateTextAnswer:	3
+ComputerAperiodic	28	CorrectAnswer:	154
+ComputerAperiodic	28	EstimateTextAnswer:	4
+ComputerAperiodic	29	CorrectAnswer:	2056
+ComputerAperiodic	29	EstimateTextAnswer:	5
+ComputerAperiodic	30	CorrectAnswer:	152
+ComputerAperiodic	30	EstimateTextAnswer:	7
+ComputerAperiodic	31	CorrectAnswer:	2064
+ComputerAperiodic	31	EstimateTextAnswer:	6
+ComputerAperiodic	32	CorrectAnswer:	815
+ComputerAperiodic	32	EstimateTextAnswer:	7
+ComputerAperiodic	33	CorrectAnswer:	1471
+ComputerAperiodic	33	EstimateTextAnswer:	8
+ComputerAperiodic	34	CorrectAnswer:	2055
+ComputerAperiodic	34	EstimateTextAnswer:	9
+ComputerAperiodic	35	CorrectAnswer:	2070
+ComputerAperiodic	35	EstimateTextAnswer:	10
+ComputerAperiodic	36	CorrectAnswer:	815
+ComputerAperiodic	36	EstimateTextAnswer:	11
+ComputerAperiodic	37	CorrectAnswer:	154
+ComputerAperiodic	37	EstimateTextAnswer:	12
+ComputerAperiodic	38	CorrectAnswer:	1487
+ComputerAperiodic	38	EstimateTextAnswer:	13
+ComputerAperiodic	39	CorrectAnswer:	820
+ComputerAperiodic	39	EstimateTextAnswer:	14
+ComputerAperiodic	40	CorrectAnswer:	2064
+ComputerAperiodic	40	EstimateTextAnswer:	15
+ComputerAperiodic	41	CorrectAnswer:	2053
+ComputerAperiodic	41	EstimateTextAnswer:	16
+ComputerAperiodic	42	CorrectAnswer:	1481
+ComputerAperiodic	42	EstimateTextAnswer:	17
+ComputerAperiodic	43	CorrectAnswer:	153
+ComputerAperiodic	43	EstimateTextAnswer:	18
+ComputerAperiodic	44	CorrectAnswer:	2061
+ComputerAperiodic	44	EstimateTextAnswer:	19
+ComputerAperiodic	45	CorrectAnswer:	150
+ComputerAperiodic	45	EstimateTextAnswer:	20
+ComputerAperiodic	46	CorrectAnswer:	826
+ComputerAperiodic	46	EstimateTextAnswer:	21
+ComputerAperiodic	47	CorrectAnswer:	818
+ComputerAperiodic	47	EstimateTextAnswer:	23
+ComputerAperiodic	48	CorrectAnswer:	2068
+ComputerAperiodic	48	EstimateTextAnswer:	54
+05:42:41.942	ComputerAperiodic	50	Rating-1	Adaptation
+05:42:41.943	ComputerAperiodic	50	Rating-2	Control
+05:42:41.943	ComputerAperiodic	50	Rating-3	Intention
+05:42:41.943	ComputerAperiodic	50	Rating-4	Relaxation
+05:42:41.944	ComputerAperiodic	50	Rating-5	Smoothiness
+05:42:41.944	ComputerAperiodic	50	Rating-6	Confidence
+05:42:41.944	ComputerAperiodic	11	Rating-1	TLX-1
+05:42:41.945	ComputerAperiodic	11	Rating-2	TLX-2
+05:42:41.945	ComputerAperiodic	11	Rating-3	TLX-3
+05:42:41.946	ComputerAperiodic	11	Rating-4	TLX-4
+05:42:41.946	ComputerAperiodic	11	Rating-5	TLX-5
+05:42:41.946	ComputerAperiodic	11	Rating-6	TLX-5
+UserActivated	49	CorrectAnswer:	2326
+UserActivated	49	EstimateTextAnswer:	1
+UserActivated	50	CorrectAnswer:	2479
+UserActivated	50	EstimateTextAnswer:	2
+UserActivated	51	CorrectAnswer:	463
+UserActivated	51	EstimateTextAnswer:	3
+UserActivated	52	CorrectAnswer:	2191
+UserActivated	52	EstimateTextAnswer:	4
+UserActivated	53	CorrectAnswer:	1495
+UserActivated	53	EstimateTextAnswer:	5
+UserActivated	54	CorrectAnswer:	15
+UserActivated	54	EstimateTextAnswer:	6
+UserActivated	55	CorrectAnswer:	1495
+UserActivated	55	EstimateTextAnswer:	8
+UserActivated	56	CorrectAnswer:	855
+UserActivated	56	EstimateTextAnswer:	9
+UserActivated	57	CorrectAnswer:	703
+UserActivated	57	EstimateTextAnswer:	10
+UserActivated	58	CorrectAnswer:	1703
+UserActivated	58	EstimateTextAnswer:	11
+UserActivated	59	CorrectAnswer:	1775
+UserActivated	59	EstimateTextAnswer:	12
+UserActivated	60	CorrectAnswer:	2295
+UserActivated	60	EstimateTextAnswer:	13
+UserActivated	61	CorrectAnswer:	1703
+UserActivated	61	EstimateTextAnswer:	15
+UserActivated	62	CorrectAnswer:	655
+UserActivated	62	EstimateTextAnswer:	16
+UserActivated	63	CorrectAnswer:	191
+UserActivated	63	EstimateTextAnswer:	17
+UserActivated	64	CorrectAnswer:	1566
+UserActivated	64	EstimateTextAnswer:	18
+UserActivated	65	CorrectAnswer:	1879
+UserActivated	65	EstimateTextAnswer:	19
+UserActivated	66	CorrectAnswer:	743
+UserActivated	66	EstimateTextAnswer:	20
+UserActivated	67	CorrectAnswer:	2079
+UserActivated	67	EstimateTextAnswer:	22
+UserActivated	68	CorrectAnswer:	1087
+UserActivated	68	EstimateTextAnswer:	23
+UserActivated	69	CorrectAnswer:	1823
+UserActivated	69	EstimateTextAnswer:	24
+UserActivated	70	CorrectAnswer:	1480
+UserActivated	70	EstimateTextAnswer:	25
+UserActivated	71	CorrectAnswer:	150
+UserActivated	71	EstimateTextAnswer:	26
+UserActivated	72	CorrectAnswer:	991
+UserActivated	72	EstimateTextAnswer:	25
+05:46:59.574	UserActivated	50	Rating-1	Adaptation
+05:46:59.575	UserActivated	50	Rating-2	Control
+05:46:59.575	UserActivated	50	Rating-3	Intention
+05:46:59.575	UserActivated	50	Rating-4	Relaxation
+05:46:59.576	UserActivated	50	Rating-5	Smoothiness
+05:46:59.576	UserActivated	50	Rating-6	Confidence
+05:46:59.576	UserActivated	11	Rating-1	TLX-1
+05:46:59.577	UserActivated	11	Rating-2	TLX-2
+05:46:59.577	UserActivated	11	Rating-3	TLX-3
+05:46:59.578	UserActivated	11	Rating-4	TLX-4
+05:46:59.578	UserActivated	11	Rating-5	TLX-5
+05:46:59.578	UserActivated	11	Rating-6	TLX-5
+ComputerAligned	73	CorrectAnswer:	2467
+ComputerAligned	73	EstimateTextAnswer:	1
+ComputerAligned	74	CorrectAnswer:	1879
+ComputerAligned	74	EstimateTextAnswer:	3
+ComputerAligned	75	CorrectAnswer:	1810
+ComputerAligned	75	EstimateTextAnswer:	4
+ComputerAligned	76	CorrectAnswer:	1933
+ComputerAligned	76	EstimateTextAnswer:	5
+ComputerAligned	77	CorrectAnswer:	1372
+ComputerAligned	77	EstimateTextAnswer:	6
+ComputerAligned	78	CorrectAnswer:	1870
+ComputerAligned	78	EstimateTextAnswer:	7
+ComputerAligned	79	CorrectAnswer:	1549
+ComputerAligned	79	EstimateTextAnswer:	8
+ComputerAligned	80	CorrectAnswer:	1558
+ComputerAligned	80	EstimateTextAnswer:	9
+ComputerAligned	81	CorrectAnswer:	177
+ComputerAligned	81	EstimateTextAnswer:	11
+ComputerAligned	82	CorrectAnswer:	526
+ComputerAligned	82	EstimateTextAnswer:	12
+ComputerAligned	83	CorrectAnswer:	256
+ComputerAligned	83	EstimateTextAnswer:	15
+ComputerAligned	84	CorrectAnswer:	1359
+ComputerAligned	84	EstimateTextAnswer:	12
+ComputerAligned	85	CorrectAnswer:	670
+ComputerAligned	85	EstimateTextAnswer:	13
+ComputerAligned	86	CorrectAnswer:	1916
+ComputerAligned	86	EstimateTextAnswer:	14
+ComputerAligned	87	CorrectAnswer:	2241
+ComputerAligned	87	EstimateTextAnswer:	15
+ComputerAligned	88	CorrectAnswer:	910
+ComputerAligned	88	EstimateTextAnswer:	16
+ComputerAligned	89	CorrectAnswer:	1781
+ComputerAligned	89	EstimateTextAnswer:	17
+ComputerAligned	90	CorrectAnswer:	395
+ComputerAligned	90	EstimateTextAnswer:	18
+ComputerAligned	91	CorrectAnswer:	1372
+ComputerAligned	91	EstimateTextAnswer:	19
+ComputerAligned	92	CorrectAnswer:	788
+ComputerAligned	92	EstimateTextAnswer:	20
+ComputerAligned	93	CorrectAnswer:	1662
+ComputerAligned	93	EstimateTextAnswer:	21
+ComputerAligned	94	CorrectAnswer:	1900
+ComputerAligned	94	EstimateTextAnswer:	22
+ComputerAligned	95	CorrectAnswer:	2117
+ComputerAligned	95	EstimateTextAnswer:	23
+ComputerAligned	96	CorrectAnswer:	862
+ComputerAligned	96	EstimateTextAnswer:	24
+05:51:17.182	ComputerAligned	50	Rating-1	Adaptation
+05:51:17.183	ComputerAligned	50	Rating-2	Control
+05:51:17.183	ComputerAligned	50	Rating-3	Intention
+05:51:17.184	ComputerAligned	50	Rating-4	Relaxation
+05:51:17.184	ComputerAligned	50	Rating-5	Smoothiness
+05:51:17.185	ComputerAligned	50	Rating-6	Confidence
+05:51:17.185	ComputerAligned	11	Rating-1	TLX-1
+05:51:17.185	ComputerAligned	11	Rating-2	TLX-2
+05:51:17.186	ComputerAligned	11	Rating-3	TLX-3
+05:51:17.186	ComputerAligned	11	Rating-4	TLX-4
+05:51:17.186	ComputerAligned	11	Rating-5	TLX-5
+05:51:17.187	ComputerAligned	11	Rating-6	TLX-5

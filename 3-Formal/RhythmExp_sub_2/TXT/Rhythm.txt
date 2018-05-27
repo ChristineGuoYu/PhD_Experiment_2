@@ -1,0 +1,969 @@
+﻿12:23:20.933	UserActivated	1	User-f4:	603	582	501	494
+12:23:20.935	UserActivated	1	User-l4:	508	521	558	547
+12:23:28.383	UserActivated	2	User-f4:	782	519	778	462
+12:23:34.570	UserActivated	3	User-f4:	798	466	427	476
+12:23:42.351	UserActivated	4	User-f4:	764	603	523	471
+12:23:49.898	UserActivated	5	User-f4:	1088	558	455	524
+12:23:49.899	UserActivated	5	User-l4:	496	470	553	585
+12:29:51.642	UserActivated	1	User-f4:	562	534	420	407
+12:29:51.646	UserActivated	1	User-l4:	379	597	343	460
+12:29:57.571	UserActivated	2	User-f4:	777	536	488	427
+12:29:57.572	UserActivated	2	User-l3:	461	384	390
+12:30:05.445	UserActivated	3	User-f4:	1013	676	788	604
+12:30:05.448	UserActivated	3	User-l3:	537	554	509
+12:30:12.698	UserActivated	4	User-f4:	665	509	463	603
+12:30:12.699	UserActivated	4	User-l5:	345	461	460	377	451
+12:30:54.323	ComputerRhythmic	1	Computer-f4:	660	660	660	660
+12:30:54.326	ComputerRhythmic	1	Computer-l5:	660	660	660	660	660
+12:31:05.932	ComputerRhythmic	2	Computer-f4:	660	660	660	660
+12:31:05.933	ComputerRhythmic	2	Computer-l3:	660	660	660
+12:31:16.342	ComputerRhythmic	3	Computer-f4:	660	660	660	660
+12:31:16.344	ComputerRhythmic	3	Computer-l4:	660	660	660	660
+12:31:59.890	ComputerAperiodic	1	Computer-f4:	521	763	552	841
+12:31:59.893	ComputerAperiodic	1	Computer-l5:	448	484	872	607	859
+12:32:07.687	ComputerAperiodic	2	Computer-f4:	474	724	666	715
+12:32:07.687	ComputerAperiodic	2	Computer-l4:	593	472	808	626
+12:32:15.185	ComputerAperiodic	3	Computer-f4:	743	512	458	790
+12:32:15.186	ComputerAperiodic	3	Computer-l3:	979	505	571
+12:32:31.448	ComputerAligned	1	User-f4:	684	487	426	468
+12:32:31.450	ComputerAligned	1	Computer-l3:	684	487	426
+12:32:39.931	ComputerAligned	2	User-f4:	637	459	429	418
+12:32:39.931	ComputerAligned	2	Computer-l5:	637	459	429	418	485
+12:32:47.289	ComputerAligned	3	User-f4:	786	572	528	555
+12:32:47.290	ComputerAligned	3	Computer-l4:	786	572	528	555
+07:24:22.991	ComputerAperiodic	1	Computer-f4:	521	763	552	841
+07:24:23.013	ComputerAperiodic	1	Computer-l3:	448	484	872
+12:30:19.626	ComputerAperiodic	1	Computer-f4:	431	768	585	862
+12:30:19.834	ComputerAperiodic	1	Computer-l4:	681	565	797	580
+12:30:29.375	ComputerAperiodic	2	Computer-f4:	786	427	535	836
+12:30:29.384	ComputerAperiodic	2	Computer-l3:	582	853	599
+12:30:40.062	ComputerAperiodic	3	Computer-f4:	499	410	642	499
+12:30:40.094	ComputerAperiodic	3	Computer-l4:	982	1045	546	664
+12:30:50.731	ComputerAperiodic	4	Computer-f4:	429	783	908	702
+12:30:51.057	ComputerAperiodic	4	Computer-l5:	601	500	418	957	651
+12:41:21.904	ComputerRhythmic	1	Computer-f4:	660	660	660	660
+12:41:21.951	ComputerRhythmic	1	Computer-l3:	660	660	660
+02:11:47.744	ComputerAperiodic	1	Computer-f4:	431	768	585	862
+02:11:47.749	ComputerAperiodic	1	Computer-l4:	681	565	797	580
+11:41:05.956	UserActivated	1	User-f4:	3114	490	433	569
+11:41:05.958	UserActivated	1	User-l5:	921	752	755	788	709
+11:41:45.580	UserActivated	1	User-f4:	530	572	487	465
+11:41:45.583	UserActivated	1	User-l3:	549	438	498
+11:42:44.609	ComputerRhythmic	1	Computer-f4:	660	660	660	660
+11:42:44.612	ComputerRhythmic	1	Computer-l4:	660	660	660	660
+11:42:57.861	ComputerRhythmic	2	Computer-f4:	660	660	660	660
+11:42:57.862	ComputerRhythmic	2	Computer-l3:	660	660	660
+11:43:07.095	ComputerRhythmic	3	Computer-f4:	660	660	660	660
+11:43:07.096	ComputerRhythmic	3	Computer-l4:	660	660	660	660
+11:43:36.126	ComputerRhythmic	1	Computer-f4:	660	660	660	660
+11:43:36.129	ComputerRhythmic	1	Computer-l5:	660	660	660	660	660
+11:43:44.459	ComputerRhythmic	2	Computer-f4:	660	660	660	660
+11:43:44.459	ComputerRhythmic	2	Computer-l3:	660	660	660
+11:43:54.513	ComputerRhythmic	3	Computer-f4:	660	660	660	660
+11:43:54.516	ComputerRhythmic	3	Computer-l5:	660	660	660	660	660
+11:44:07.046	ComputerRhythmic	4	Computer-f4:	660	660	660	660
+11:44:07.047	ComputerRhythmic	4	Computer-l5:	660	660	660	660	660
+11:44:18.794	ComputerRhythmic	5	Computer-f4:	660	660	660	660
+11:44:18.795	ComputerRhythmic	5	Computer-l3:	660	660	660
+04:49:06.378	ComputerRhythmic	1	Computer-f4:	660	660	660	660
+04:49:06.384	ComputerRhythmic	1	Computer-l3:	660	660	660
+04:49:31.331	UserActivated	1	User-f4:	655	434	544	520
+04:49:31.336	UserActivated	1	User-l5:	576	520	592	6288	912
+04:49:40.455	UserActivated	2	User-f4:	610	512	496	544
+04:49:40.458	UserActivated	2	User-l5:	472	472	640	648	624
+04:49:47.608	UserActivated	3	User-f4:	587	400	384	336
+04:49:47.612	UserActivated	3	User-l3:	327	361	360
+04:50:06.030	UserActivated	4	User-f4:	682	344	320	592
+04:50:06.035	UserActivated	4	User-l4:	520	536	400	8024
+04:50:16.046	UserActivated	5	User-f4:	315	592	344	344
+04:50:16.049	UserActivated	5	User-l5:	368	320	639	601	664
+04:58:17.390	ComputerRhythmic	1	Computer-f4:	660	660	660	660
+04:58:17.395	ComputerRhythmic	1	Computer-l5:	660	660	660	660	660
+04:58:26.892	ComputerRhythmic	2	Computer-f4:	660	660	660	660
+04:58:26.895	ComputerRhythmic	2	Computer-l3:	660	660	660
+04:58:37.684	ComputerRhythmic	3	Computer-f4:	660	660	660	660
+04:58:37.687	ComputerRhythmic	3	Computer-l5:	660	660	660	660	660
+04:58:47.776	ComputerRhythmic	4	Computer-f4:	660	660	660	660
+04:58:47.779	ComputerRhythmic	4	Computer-l4:	660	660	660	660
+04:58:57.885	ComputerRhythmic	5	Computer-f4:	660	660	660	660
+04:58:57.887	ComputerRhythmic	5	Computer-l5:	660	660	660	660	660
+04:59:08.620	ComputerRhythmic	6	Computer-f4:	660	660	660	660
+04:59:08.623	ComputerRhythmic	6	Computer-l5:	660	660	660	660	660
+04:59:18.312	ComputerRhythmic	7	Computer-f4:	660	660	660	660
+04:59:18.315	ComputerRhythmic	7	Computer-l4:	660	660	660	660
+04:59:27.415	ComputerRhythmic	8	Computer-f4:	660	660	660	660
+04:59:27.418	ComputerRhythmic	8	Computer-l4:	660	660	660	660
+04:59:38.921	ComputerRhythmic	9	Computer-f4:	660	660	660	660
+04:59:38.924	ComputerRhythmic	9	Computer-l4:	660	660	660	660
+04:59:47.031	ComputerRhythmic	10	Computer-f4:	660	660	660	660
+04:59:47.034	ComputerRhythmic	10	Computer-l3:	660	660	660
+04:59:56.602	ComputerRhythmic	11	Computer-f4:	660	660	660	660
+04:59:56.605	ComputerRhythmic	11	Computer-l5:	660	660	660	660	660
+05:00:06.337	ComputerRhythmic	12	Computer-f4:	660	660	660	660
+05:00:06.340	ComputerRhythmic	12	Computer-l4:	660	660	660	660
+05:00:17.793	ComputerRhythmic	13	Computer-f4:	660	660	660	660
+05:00:17.796	ComputerRhythmic	13	Computer-l3:	660	660	660
+05:00:28.164	ComputerRhythmic	14	Computer-f4:	660	660	660	660
+05:00:28.167	ComputerRhythmic	14	Computer-l4:	660	660	660	660
+05:00:37.930	ComputerRhythmic	15	Computer-f4:	660	660	660	660
+05:00:37.935	ComputerRhythmic	15	Computer-l4:	660	660	660	660
+05:00:46.525	ComputerRhythmic	16	Computer-f4:	660	660	660	660
+05:00:46.528	ComputerRhythmic	16	Computer-l3:	660	660	660
+05:00:56.087	ComputerRhythmic	17	Computer-f4:	660	660	660	660
+05:00:56.091	ComputerRhythmic	17	Computer-l5:	660	660	660	660	660
+05:01:06.059	ComputerRhythmic	18	Computer-f4:	660	660	660	660
+05:01:06.063	ComputerRhythmic	18	Computer-l4:	660	660	660	660
+05:01:15.181	ComputerRhythmic	19	Computer-f4:	660	660	660	660
+05:01:15.184	ComputerRhythmic	19	Computer-l3:	660	660	660
+05:01:24.742	ComputerRhythmic	20	Computer-f4:	660	660	660	660
+05:01:24.746	ComputerRhythmic	20	Computer-l5:	660	660	660	660	660
+05:01:34.352	ComputerRhythmic	21	Computer-f4:	660	660	660	660
+05:01:34.356	ComputerRhythmic	21	Computer-l5:	660	660	660	660	660
+05:01:48.695	ComputerRhythmic	22	Computer-f4:	660	660	660	660
+05:01:48.703	ComputerRhythmic	22	Computer-l4:	660	660	660	660
+05:02:01.326	ComputerRhythmic	23	Computer-f4:	660	660	660	660
+05:02:01.329	ComputerRhythmic	23	Computer-l4:	660	660	660	660
+05:02:15.086	ComputerRhythmic	24	Computer-f4:	660	660	660	660
+05:02:15.089	ComputerRhythmic	24	Computer-l5:	660	660	660	660	660
+05:02:34.044	ComputerRhythmic	25	Computer-f4:	660	660	660	660
+05:02:34.089	ComputerRhythmic	25	Computer-l3:	660	660	660
+05:02:42.744	ComputerRhythmic	26	Computer-f4:	660	660	660	660
+05:02:42.746	ComputerRhythmic	26	Computer-l3:	660	660	660
+05:02:52.492	ComputerRhythmic	27	Computer-f4:	660	660	660	660
+05:02:52.494	ComputerRhythmic	27	Computer-l5:	660	660	660	660	660
+05:03:00.774	ComputerRhythmic	28	Computer-f4:	660	660	660	660
+05:03:00.777	ComputerRhythmic	28	Computer-l3:	660	660	660
+05:03:09.527	ComputerRhythmic	29	Computer-f4:	660	660	660	660
+05:03:09.530	ComputerRhythmic	29	Computer-l3:	660	660	660
+05:03:18.588	ComputerRhythmic	30	Computer-f4:	660	660	660	660
+05:03:18.592	ComputerRhythmic	30	Computer-l3:	660	660	660
+05:03:32.913	ComputerAperiodic	31	Computer-f4:	431	768	585	862
+05:03:32.916	ComputerAperiodic	31	Computer-l4:	681	565	797	580
+05:03:41.232	ComputerAperiodic	32	Computer-f4:	786	427	535	836
+05:03:41.234	ComputerAperiodic	32	Computer-l3:	582	853	599
+05:03:50.088	ComputerAperiodic	33	Computer-f4:	499	410	642	499
+05:03:50.091	ComputerAperiodic	33	Computer-l4:	982	1045	546	664
+05:03:59.748	ComputerAperiodic	34	Computer-f4:	429	783	908	702
+05:03:59.751	ComputerAperiodic	34	Computer-l5:	601	500	418	957	651
+05:04:09.351	ComputerAperiodic	35	Computer-f4:	755	636	1004	550
+05:04:09.354	ComputerAperiodic	35	Computer-l3:	590	444	633
+05:04:20.305	ComputerAperiodic	36	Computer-f4:	518	426	475	776
+05:04:20.308	ComputerAperiodic	36	Computer-l5:	835	483	912	519	989
+05:04:28.647	ComputerAperiodic	37	Computer-f4:	457	690	1044	454
+05:04:28.651	ComputerAperiodic	37	Computer-l3:	814	685	470
+05:04:39.179	ComputerAperiodic	38	Computer-f4:	679	768	659	473
+05:04:39.182	ComputerAperiodic	38	Computer-l5:	951	513	412	846	646
+05:04:47.730	ComputerAperiodic	39	Computer-f4:	982	749	568	612
+05:04:47.734	ComputerAperiodic	39	Computer-l3:	671	486	556
+05:04:57.584	ComputerAperiodic	40	Computer-f4:	624	428	556	964
+05:04:57.587	ComputerAperiodic	40	Computer-l5:	856	632	417	864	598
+05:05:06.525	ComputerAperiodic	41	Computer-f4:	622	558	780	699
+05:05:06.527	ComputerAperiodic	41	Computer-l4:	762	927	434	499
+05:05:15.678	ComputerAperiodic	42	Computer-f4:	630	818	650	836
+05:05:15.684	ComputerAperiodic	42	Computer-l4:	925	413	590	411
+05:05:28.185	ComputerAperiodic	43	Computer-f4:	430	954	484	696
+05:05:28.196	ComputerAperiodic	43	Computer-l4:	434	463	943	875
+05:05:38.849	ComputerAperiodic	44	Computer-f4:	658	544	800	727
+05:05:38.857	ComputerAperiodic	44	Computer-l5:	802	434	678	809	486
+05:05:47.115	ComputerAperiodic	45	Computer-f4:	578	507	677	578
+05:05:47.129	ComputerAperiodic	45	Computer-l3:	741	537	1004
+05:05:55.292	ComputerAperiodic	46	Computer-f4:	510	838	450	937
+05:05:55.298	ComputerAperiodic	46	Computer-l3:	643	524	716
+05:06:04.740	ComputerAperiodic	47	Computer-f4:	601	526	901	1019
+05:06:04.743	ComputerAperiodic	47	Computer-l5:	571	491	535	745	547
+05:06:17.849	ComputerAperiodic	48	Computer-f4:	419	533	979	429
+05:06:17.857	ComputerAperiodic	48	Computer-l4:	506	920	631	861
+05:06:26.490	ComputerAperiodic	49	Computer-f4:	416	664	834	550
+05:06:26.503	ComputerAperiodic	49	Computer-l3:	578	849	719
+05:06:35.491	ComputerAperiodic	50	Computer-f4:	638	410	704	621
+05:06:35.499	ComputerAperiodic	50	Computer-l3:	677	855	719
+05:06:44.147	ComputerAperiodic	51	Computer-f4:	559	651	689	837
+05:06:44.162	ComputerAperiodic	51	Computer-l3:	595	443	851
+05:06:54.303	ComputerAperiodic	52	Computer-f4:	567	456	624	719
+05:06:54.306	ComputerAperiodic	52	Computer-l3:	904	437	910
+05:07:03.577	ComputerAperiodic	53	Computer-f4:	753	810	671	527
+05:07:03.586	ComputerAperiodic	53	Computer-l5:	431	503	544	886	813
+05:07:13.006	ComputerAperiodic	54	Computer-f4:	505	695	521	919
+05:07:13.010	ComputerAperiodic	54	Computer-l5:	557	666	891	750	443
+05:07:21.710	ComputerAperiodic	55	Computer-f4:	421	866	474	699
+05:07:21.713	ComputerAperiodic	55	Computer-l4:	1056	522	486	763
+05:07:31.655	ComputerAperiodic	56	Computer-f4:	553	1048	418	512
+05:07:31.658	ComputerAperiodic	56	Computer-l4:	434	919	655	739
+05:07:41.553	ComputerAperiodic	57	Computer-f4:	706	886	633	888
+05:07:41.556	ComputerAperiodic	57	Computer-l4:	421	761	444	543
+05:07:50.990	ComputerAperiodic	58	Computer-f4:	416	481	980	471
+05:07:50.993	ComputerAperiodic	58	Computer-l5:	858	504	891	779	568
+05:07:59.931	ComputerAperiodic	59	Computer-f4:	412	441	870	840
+05:07:59.942	ComputerAperiodic	59	Computer-l4:	777	831	572	534
+05:08:10.443	ComputerAperiodic	60	Computer-f4:	658	722	501	430
+05:08:10.446	ComputerAperiodic	60	Computer-l5:	554	759	710	820	782
+05:08:22.116	UserActivated	61	User-f4:	592	563	543	553
+05:08:22.120	UserActivated	61	User-l4:	552	680	520	640
+05:08:30.291	UserActivated	62	User-f4:	636	735	576	584
+05:08:30.294	UserActivated	62	User-l3:	520	560	592
+05:08:38.681	UserActivated	63	User-f4:	939	608	560	584
+05:08:38.685	UserActivated	63	User-l4:	576	592	624	560
+05:08:50.930	UserActivated	64	User-f4:	1658	600	544	608
+05:08:50.933	UserActivated	64	User-l5:	608	640	616	1320	727
+05:09:00.356	UserActivated	65	User-f4:	395	519	512	600
+05:09:00.359	UserActivated	65	User-l3:	472	496	568
+05:09:18.925	UserActivated	66	User-f4:	523	624	592	535
+05:09:18.929	UserActivated	66	User-l5:	536	520	512	9777	992
+05:09:25.725	UserActivated	67	User-f4:	563	568	376	480
+05:09:25.728	UserActivated	67	User-l3:	440	440	448
+05:09:33.541	UserActivated	68	User-f4:	907	344	368	352
+05:09:33.544	UserActivated	68	User-l5:	424	424	488	704	456
+05:09:40.305	UserActivated	69	User-f4:	619	496	440	384
+05:09:40.308	UserActivated	69	User-l3:	408	328	416
+05:09:51.553	UserActivated	70	User-f4:	2522	416	416	432
+05:09:51.556	UserActivated	70	User-l5:	488	544	568	472	376
+05:10:00.758	UserActivated	71	User-f4:	2339	392	464	592
+05:10:00.760	UserActivated	71	User-l4:	296	552	633	695
+05:10:09.319	UserActivated	72	User-f4:	1650	512	416	392
+05:10:09.324	UserActivated	72	User-l4:	528	416	432	496
+05:10:17.134	UserActivated	73	User-f4:	1171	416	384	320
+05:10:17.138	UserActivated	73	User-l4:	680	360	377	416
+05:10:24.492	UserActivated	74	User-f4:	724	400	384	376
+05:10:24.494	UserActivated	74	User-l5:	344	392	368	360	336
+10:37:23.188	ComputerRhythmic	1	Computer-f4:	660	660	660	660
+10:37:23.209	ComputerRhythmic	1	Computer-l3:	660	660	660
+10:37:37.118	ComputerRhythmic	2	Computer-f4:	660	660	660	660
+10:37:37.141	ComputerRhythmic	2	Computer-l5:	660	660	660	660	660
+05:28:38.328	ComputerRhythmic	1	Computer-f4:	264	264	264	264
+05:28:38.346	ComputerRhythmic	1	Computer-l4:	264	264	264	264
+05:37:43.102	ComputerRhythmic	1	Computer-f4:	298	298	298	298
+05:37:43.131	ComputerRhythmic	1	Computer-l5:	298	298	298	298	298
+05:37:51.080	ComputerRhythmic	2	Computer-f4:	298	298	298	298
+05:37:51.102	ComputerRhythmic	2	Computer-l3:	298	298	298
+05:39:06.253	ComputerRhythmic	1	Computer-f4:	273	273	273	273
+05:39:06.277	ComputerRhythmic	1	Computer-l4:	273	273	273	273
+05:39:15.233	ComputerRhythmic	2	Computer-f4:	273	273	273	273
+05:39:15.261	ComputerRhythmic	2	Computer-l5:	273	273	273	273	273
+05:40:19.894	ComputerRhythmic	3	Computer-f4:	273	273	273	273
+05:40:19.919	ComputerRhythmic	3	Computer-l4:	273	273	273	273
+06:12:59.905	ComputerRhythmic	1	Computer-f4:	270	270	270	270
+06:12:59.929	ComputerRhythmic	1	Computer-l3:	270	270	270
+06:13:17.885	ComputerRhythmic	2	Computer-f4:	270	270	270	270
+06:13:17.910	ComputerRhythmic	2	Computer-l3:	270	270	270
+06:29:13.708	ComputerRhythmic	3	Computer-f4:	270	270	270	270
+06:29:13.731	ComputerRhythmic	3	Computer-l5:	270	270	270	270	270
+11:58:51.927	ComputerRhythmic	1	Computer-f4:	274	274	274	274
+11:58:51.936	ComputerRhythmic	1	Computer-l3:	274	274	274
+02:42:13.819	ComputerRhythmic	1	Computer-f4:	270	270	270	270
+02:42:13.831	ComputerRhythmic	1	Computer-l3:	270	270	270
+02:42:20.589	ComputerRhythmic	2	Computer-f4:	270	270	270	270
+02:42:20.599	ComputerRhythmic	2	Computer-l4:	270	270	270	270
+02:42:27.793	ComputerRhythmic	3	Computer-f4:	270	270	270	270
+02:42:27.802	ComputerRhythmic	3	Computer-l6:	270	270	270	270	270	270
+02:42:34.292	ComputerRhythmic	4	Computer-f4:	270	270	270	270
+02:42:34.301	ComputerRhythmic	4	Computer-l3:	270	270	270
+02:42:41.074	ComputerRhythmic	5	Computer-f4:	270	270	270	270
+02:42:41.084	ComputerRhythmic	5	Computer-l4:	270	270	270	270
+02:42:47.690	ComputerRhythmic	6	Computer-f4:	270	270	270	270
+02:42:47.707	ComputerRhythmic	6	Computer-l3:	270	270	270
+02:42:54.526	ComputerRhythmic	7	Computer-f4:	270	270	270	270
+02:42:54.536	ComputerRhythmic	7	Computer-l5:	270	270	270	270	270
+02:43:00.938	ComputerRhythmic	8	Computer-f4:	270	270	270	270
+02:43:00.958	ComputerRhythmic	8	Computer-l4:	270	270	270	270
+02:43:07.089	ComputerRhythmic	9	Computer-f4:	270	270	270	270
+02:43:07.099	ComputerRhythmic	9	Computer-l4:	270	270	270	270
+03:35:31.916	UserActivated	1	User-f4:	504	368	368	425
+03:35:31.926	UserActivated	1	User-l6:	432	392	472	584	583	656
+03:35:42.224	UserActivated	2	User-f4:	419	392	401	415
+03:35:42.227	UserActivated	2	User-l4:	408	304	504	488
+03:35:52.125	UserActivated	3	User-f4:	540	456	423	568
+03:35:52.130	UserActivated	3	User-l5:	464	504	552	528	536
+03:36:05.141	UserActivated	4	User-f4:	930	464	440	479
+03:36:05.146	UserActivated	4	User-l6:	440	576	576	680	641	624
+03:36:15.211	UserActivated	5	User-f4:	500	496	495	409
+03:36:15.215	UserActivated	5	User-l6:	416	376	384	432	457	824
+03:36:24.448	UserActivated	6	User-f4:	739	505	519	424
+03:36:24.452	UserActivated	6	User-l3:	393	584	448
+03:36:35.151	UserActivated	7	User-f4:	644	448	503	440
+03:36:35.156	UserActivated	7	User-l5:	472	488	536	568	664
+03:36:46.076	UserActivated	8	User-f4:	1274	464	440	400
+03:36:46.081	UserActivated	8	User-l4:	472	448	512	544
+03:37:11.064	UserActivated	9	User-f4:	2443	311	480	256
+03:37:11.083	UserActivated	9	User-l4:	408	536	360	512
+03:37:20.561	UserActivated	10	User-f4:	627	505	496	440
+03:37:20.566	UserActivated	10	User-l4:	519	481	512	632
+03:37:31.903	UserActivated	11	User-f4:	827	529	528	440
+03:37:31.907	UserActivated	11	User-l4:	432	504	487	553
+03:37:41.072	UserActivated	12	User-f4:	451	440	376	392
+03:37:41.076	UserActivated	12	User-l3:	376	408	423
+03:37:51.963	UserActivated	13	User-f4:	1162	448	448	465
+03:37:51.968	UserActivated	13	User-l3:	512	504	529
+03:38:06.196	UserActivated	14	User-f4:	620	504	488	480
+03:38:06.204	UserActivated	14	User-l5:	664	609	567	2953	1216
+03:38:15.234	UserActivated	15	User-f4:	451	448	368	376
+03:38:15.240	UserActivated	15	User-l4:	360	391	480	528
+03:38:41.367	ComputerAligned	1	User-f4:	695	307	296	296
+03:38:41.377	ComputerAligned	1	Computer-l5:	695	307	296	296	398
+03:38:52.543	ComputerAligned	2	User-f4:	547	720	848	423
+03:38:52.547	ComputerAligned	2	Computer-l6:	547	720	848	423	634	634
+03:39:01.323	ComputerAligned	3	User-f4:	500	359	377	368
+03:39:01.328	ComputerAligned	3	Computer-l4:	500	359	377	368
+03:39:11.541	ComputerAligned	4	User-f4:	435	527	504	737
+03:39:11.545	ComputerAligned	4	Computer-l6:	435	527	504	737	550	550
+03:39:23.247	ComputerAligned	5	User-f4:	425	503	601	657
+03:39:23.251	ComputerAligned	5	Computer-l6:	425	503	601	657	546	546
+11:13:38.426	ComputerRhythmic	1	Computer-f4:	305	305	305	305
+11:13:38.490	ComputerRhythmic	1	Computer-l3:	305	305	305
+11:13:46.659	ComputerRhythmic	2	Computer-f4:	305	305	305	305
+11:13:46.695	ComputerRhythmic	2	Computer-l5:	305	305	305	305	305
+11:25:12.545	UserActivated	1	User-f4:	572	575	629	501
+11:25:12.578	UserActivated	1	User-l3:	668	774	733
+02:49:03.574	ComputerRhythmic	1	Computer-f4:	287	287	287	287
+02:49:03.590	ComputerRhythmic	1	Computer-l5:	287	287	287	287	287
+02:49:09.956	ComputerRhythmic	2	Computer-f4:	287	287	287	287
+02:49:09.967	ComputerRhythmic	2	Computer-l3:	287	287	287
+02:49:37.897	ComputerAperiodic	1	Computer-f4:	431	768	585	862
+02:49:37.909	ComputerAperiodic	1	Computer-l6:	681	565	797	580	957	651
+02:49:49.474	ComputerAperiodic	2	Computer-f4:	786	427	535	836
+02:49:49.483	ComputerAperiodic	2	Computer-l6:	582	853	599	580	957	651
+02:50:20.369	UserActivated	1	User-f4:	503	449	520	632
+02:50:20.382	UserActivated	1	User-l5:	560	849	560	576	543
+02:50:30.999	UserActivated	2	User-f4:	480	560	584	608
+02:50:31.010	UserActivated	2	User-l4:	568	600	639	641
+02:50:43.221	UserActivated	3	User-f4:	544	848	560	577
+02:50:43.243	UserActivated	3	User-l6:	599	608	664	800	969	824
+02:51:06.832	ComputerAligned	1	User-f4:	540	587	608	616
+02:51:06.858	ComputerAligned	1	Computer-l5:	540	587	608	616	587
+02:51:16.685	ComputerAligned	2	User-f4:	466	568	584	576
+02:51:16.696	ComputerAligned	2	Computer-l4:	466	568	584	576
+02:51:28.813	ComputerAligned	3	User-f4:	464	1608	432	577
+02:51:28.825	ComputerAligned	3	Computer-l5:	464	1608	432	577	770
+02:52:50.196	UserActivated	1	User-f4:	453	513	649	543
+02:52:50.253	UserActivated	1	User-l6:	544	552	553	575	617	616
+02:53:00.711	UserActivated	2	User-f4:	568	600	560	616
+02:53:00.772	UserActivated	2	User-l6:	520	512	488	584	568	656
+02:53:12.092	UserActivated	3	User-f4:	492	632	591	640
+02:53:12.137	UserActivated	3	User-l4:	609	640	672	673
+02:46:25.499	UserActivated	1	User-f4:	701	705	681	728
+02:46:25.507	UserActivated	1	User-l3:	752	736	696
+02:46:36.232	UserActivated	2	User-f4:	703	664	664	656
+02:46:36.232	UserActivated	2	User-l3:	672	703	753
+02:46:50.110	UserActivated	3	User-f4:	712	711	696	704
+02:46:50.110	UserActivated	3	User-l5:	672	711	721	832	792
+02:47:01.921	UserActivated	4	User-f4:	615	697	704	631
+02:47:01.922	UserActivated	4	User-l6:	681	712	736	776	743	689
+02:47:13.735	UserActivated	5	User-f4:	623	672	664	744
+02:47:13.735	UserActivated	5	User-l5:	671	673	632	640	640
+02:47:24.553	UserActivated	6	User-f4:	639	672	688	671
+02:47:24.553	UserActivated	6	User-l3:	688	648	688
+02:47:37.595	UserActivated	7	User-f4:	720	672	688	696
+02:47:37.596	UserActivated	7	User-l3:	720	632	648
+02:47:48.858	UserActivated	8	User-f4:	566	648	648	703
+02:47:48.859	UserActivated	8	User-l3:	672	705	720
+02:48:00.448	UserActivated	9	User-f4:	640	672	704	696
+02:48:00.448	UserActivated	9	User-l3:	672	673	727
+02:48:11.602	UserActivated	10	User-f4:	744	696	664	681
+02:48:11.602	UserActivated	10	User-l3:	663	664	688
+02:48:24.545	UserActivated	11	User-f4:	663	672	703	696
+02:48:24.546	UserActivated	11	User-l5:	712	752	736	704	736
+02:48:37.651	UserActivated	12	User-f4:	615	704	688	704
+02:48:37.652	UserActivated	12	User-l4:	680	624	671	689
+02:48:48.795	UserActivated	13	User-f4:	792	704	656	640
+02:48:48.796	UserActivated	13	User-l3:	664	728	696
+02:49:01.389	UserActivated	14	User-f4:	495	696	648	720
+02:49:01.389	UserActivated	14	User-l5:	624	704	720	680	681
+02:49:12.556	UserActivated	15	User-f4:	712	624	688	672
+02:49:12.557	UserActivated	15	User-l4:	625	671	664	640
+02:49:24.916	UserActivated	16	User-f4:	751	712	672	600
+02:49:24.916	UserActivated	16	User-l5:	680	624	632	728	640
+02:49:35.435	UserActivated	17	User-f4:	631	648	616	639
+02:49:35.435	UserActivated	17	User-l3:	585	640	625
+02:49:45.978	UserActivated	18	User-f4:	663	617	647	681
+02:49:45.978	UserActivated	18	User-l6:	608	535	720	617	631	632
+02:49:58.466	UserActivated	19	User-f4:	711	640	640	504
+02:49:58.466	UserActivated	19	User-l4:	609	671	592	656
+02:50:10.136	UserActivated	20	User-f4:	656	639	624	681
+02:50:10.137	UserActivated	20	User-l5:	640	592	576	664	664
+02:50:21.671	UserActivated	21	User-f4:	655	680	616	616
+02:50:21.672	UserActivated	21	User-l6:	672	648	640	609	600	616
+02:50:35.586	UserActivated	22	User-f4:	815	752	777	815
+02:50:35.586	UserActivated	22	User-l5:	688	736	752	744	801
+02:50:47.998	UserActivated	23	User-f4:	632	712	712	656
+02:50:47.998	UserActivated	23	User-l4:	608	672	663	729
+02:51:01.005	UserActivated	24	User-f4:	768	695	760	680
+02:51:01.005	UserActivated	24	User-l4:	609	672	704	832
+02:51:15.560	UserActivated	25	User-f4:	703	632	528	688
+02:51:15.560	UserActivated	25	User-l4:	600	648	680	536
+02:51:27.761	UserActivated	26	User-f4:	616	648	609	616
+02:51:27.762	UserActivated	26	User-l5:	655	688	712	680	688
+02:51:42.384	UserActivated	27	User-f4:	679	656	640	672
+02:51:42.384	UserActivated	27	User-l4:	648	600	600	584
+02:51:54.232	UserActivated	28	User-f4:	543	719	672	568
+02:51:54.232	UserActivated	28	User-l4:	608	584	632	641
+02:52:07.476	UserActivated	29	User-f4:	775	712	744	736
+02:52:07.477	UserActivated	29	User-l4:	776	785	800	736
+02:52:20.481	UserActivated	30	User-f4:	848	696	664	625
+02:52:20.481	UserActivated	30	User-l5:	592	640	704	688	631
+02:53:48.807	ComputerRhythmic	31	Computer-f4:	660	660	660	660
+02:53:48.807	ComputerRhythmic	31	Computer-l3:	660	660	660
+02:54:52.203	ComputerRhythmic	1	Computer-f4:	660	660	660	660
+02:54:52.206	ComputerRhythmic	1	Computer-l5:	660	660	660	660	660
+02:55:04.871	ComputerRhythmic	2	Computer-f4:	660	660	660	660
+02:55:04.872	ComputerRhythmic	2	Computer-l6:	660	660	660	660	660	660
+02:55:16.898	ComputerRhythmic	3	Computer-f4:	660	660	660	660
+02:55:16.899	ComputerRhythmic	3	Computer-l6:	660	660	660	660	660	660
+02:55:28.883	ComputerRhythmic	4	Computer-f4:	660	660	660	660
+02:55:28.883	ComputerRhythmic	4	Computer-l6:	660	660	660	660	660	660
+02:55:39.560	ComputerRhythmic	5	Computer-f4:	660	660	660	660
+02:55:39.561	ComputerRhythmic	5	Computer-l3:	660	660	660
+02:55:49.805	ComputerRhythmic	6	Computer-f4:	660	660	660	660
+02:55:49.806	ComputerRhythmic	6	Computer-l3:	660	660	660
+02:55:59.387	ComputerRhythmic	7	Computer-f4:	660	660	660	660
+02:55:59.387	ComputerRhythmic	7	Computer-l3:	660	660	660
+02:56:10.382	ComputerRhythmic	8	Computer-f4:	660	660	660	660
+02:56:10.383	ComputerRhythmic	8	Computer-l5:	660	660	660	660	660
+02:56:21.226	ComputerRhythmic	9	Computer-f4:	660	660	660	660
+02:56:21.227	ComputerRhythmic	9	Computer-l5:	660	660	660	660	660
+02:56:31.979	ComputerRhythmic	10	Computer-f4:	660	660	660	660
+02:56:31.980	ComputerRhythmic	10	Computer-l4:	660	660	660	660
+02:56:41.475	ComputerRhythmic	11	Computer-f4:	660	660	660	660
+02:56:41.475	ComputerRhythmic	11	Computer-l3:	660	660	660
+02:56:53.305	ComputerRhythmic	12	Computer-f4:	660	660	660	660
+02:56:53.305	ComputerRhythmic	12	Computer-l5:	660	660	660	660	660
+02:57:03.240	ComputerRhythmic	13	Computer-f4:	660	660	660	660
+02:57:03.241	ComputerRhythmic	13	Computer-l3:	660	660	660
+02:57:14.086	ComputerRhythmic	14	Computer-f4:	660	660	660	660
+02:57:14.086	ComputerRhythmic	14	Computer-l3:	660	660	660
+02:57:25.009	ComputerRhythmic	15	Computer-f4:	660	660	660	660
+02:57:25.009	ComputerRhythmic	15	Computer-l4:	660	660	660	660
+02:57:34.319	ComputerRhythmic	16	Computer-f4:	660	660	660	660
+02:57:34.319	ComputerRhythmic	16	Computer-l3:	660	660	660
+02:57:44.363	ComputerRhythmic	17	Computer-f4:	660	660	660	660
+02:57:44.364	ComputerRhythmic	17	Computer-l4:	660	660	660	660
+02:57:53.145	ComputerRhythmic	18	Computer-f4:	660	660	660	660
+02:57:53.146	ComputerRhythmic	18	Computer-l3:	660	660	660
+02:58:02.598	ComputerRhythmic	19	Computer-f4:	660	660	660	660
+02:58:02.598	ComputerRhythmic	19	Computer-l3:	660	660	660
+02:58:12.863	ComputerRhythmic	20	Computer-f4:	660	660	660	660
+02:58:12.864	ComputerRhythmic	20	Computer-l4:	660	660	660	660
+02:58:23.335	ComputerRhythmic	21	Computer-f4:	660	660	660	660
+02:58:23.335	ComputerRhythmic	21	Computer-l4:	660	660	660	660
+02:58:37.097	ComputerRhythmic	22	Computer-f4:	660	660	660	660
+02:58:37.098	ComputerRhythmic	22	Computer-l5:	660	660	660	660	660
+02:58:47.783	ComputerRhythmic	23	Computer-f4:	660	660	660	660
+02:58:47.784	ComputerRhythmic	23	Computer-l5:	660	660	660	660	660
+02:59:01.315	ComputerRhythmic	24	Computer-f4:	660	660	660	660
+02:59:01.315	ComputerRhythmic	24	Computer-l5:	660	660	660	660	660
+02:59:12.454	ComputerRhythmic	25	Computer-f4:	660	660	660	660
+02:59:12.454	ComputerRhythmic	25	Computer-l5:	660	660	660	660	660
+02:59:24.110	ComputerRhythmic	26	Computer-f4:	660	660	660	660
+02:59:24.111	ComputerRhythmic	26	Computer-l5:	660	660	660	660	660
+02:59:34.579	ComputerRhythmic	27	Computer-f4:	660	660	660	660
+02:59:34.580	ComputerRhythmic	27	Computer-l4:	660	660	660	660
+02:59:45.827	ComputerRhythmic	28	Computer-f4:	660	660	660	660
+02:59:45.827	ComputerRhythmic	28	Computer-l4:	660	660	660	660
+02:59:58.095	ComputerRhythmic	29	Computer-f4:	660	660	660	660
+02:59:58.096	ComputerRhythmic	29	Computer-l4:	660	660	660	660
+03:00:08.437	ComputerRhythmic	30	Computer-f4:	660	660	660	660
+03:00:08.437	ComputerRhythmic	30	Computer-l4:	660	660	660	660
+03:01:23.935	ComputerAperiodic	31	Computer-f4:	944	397	821	612
+03:01:23.939	ComputerAperiodic	31	Computer-l5:	522	985	538	496	624
+03:02:25.328	ComputerAperiodic	1	Computer-f4:	944	397	821	612
+03:02:25.338	ComputerAperiodic	1	Computer-l5:	522	985	538	496	624
+03:02:36.698	ComputerAperiodic	2	Computer-f4:	842	785	408	831
+03:02:36.698	ComputerAperiodic	2	Computer-l5:	550	777	592	418	737
+03:02:47.873	ComputerAperiodic	3	Computer-f4:	565	981	649	441
+03:02:47.874	ComputerAperiodic	3	Computer-l5:	963	531	770	432	613
+03:02:58.184	ComputerAperiodic	4	Computer-f4:	607	947	572	717
+03:02:58.184	ComputerAperiodic	4	Computer-l4:	448	725	698	560
+03:03:10.246	ComputerAperiodic	5	Computer-f4:	985	474	574	457
+03:03:10.247	ComputerAperiodic	5	Computer-l3:	738	953	435
+03:03:20.838	ComputerAperiodic	6	Computer-f4:	400	978	875	807
+03:03:20.839	ComputerAperiodic	6	Computer-l4:	449	377	852	534
+03:03:34.775	ComputerAperiodic	7	Computer-f4:	437	969	391	935
+03:03:34.775	ComputerAperiodic	7	Computer-l3:	403	836	653
+03:03:46.886	ComputerAperiodic	8	Computer-f4:	795	444	513	804
+03:03:46.887	ComputerAperiodic	8	Computer-l5:	438	789	474	689	989
+03:03:58.609	ComputerAperiodic	9	Computer-f4:	713	841	489	677
+03:03:58.610	ComputerAperiodic	9	Computer-l6:	553	914	454	720	419	811
+03:04:09.697	ComputerAperiodic	10	Computer-f4:	885	590	497	626
+03:04:09.697	ComputerAperiodic	10	Computer-l3:	598	921	498
+03:04:19.525	ComputerAperiodic	11	Computer-f4:	682	467	966	664
+03:04:19.526	ComputerAperiodic	11	Computer-l3:	365	954	532
+03:04:30.603	ComputerAperiodic	12	Computer-f4:	763	353	588	782
+03:04:30.603	ComputerAperiodic	12	Computer-l5:	959	608	494	917	471
+03:04:41.993	ComputerAperiodic	13	Computer-f4:	580	856	664	467
+03:04:41.994	ComputerAperiodic	13	Computer-l4:	851	900	360	596
+03:04:53.692	ComputerAperiodic	14	Computer-f4:	738	787	563	377
+03:04:53.693	ComputerAperiodic	14	Computer-l6:	749	876	621	381	636	879
+03:05:04.946	ComputerAperiodic	15	Computer-f4:	468	410	632	959
+03:05:04.947	ComputerAperiodic	15	Computer-l5:	827	983	339	679	643
+03:05:14.681	ComputerAperiodic	16	Computer-f4:	781	656	495	966
+03:05:14.681	ComputerAperiodic	16	Computer-l3:	621	536	569
+03:05:23.696	ComputerAperiodic	17	Computer-f4:	847	717	541	422
+03:05:23.697	ComputerAperiodic	17	Computer-l3:	781	503	802
+03:05:35.340	ComputerAperiodic	18	Computer-f4:	859	571	492	700
+03:05:35.340	ComputerAperiodic	18	Computer-l6:	742	530	642	718	905	442
+03:05:45.650	ComputerAperiodic	19	Computer-f4:	720	954	543	413
+03:05:45.652	ComputerAperiodic	19	Computer-l4:	735	588	453	867
+03:05:55.995	ComputerAperiodic	20	Computer-f4:	539	914	805	677
+03:05:55.996	ComputerAperiodic	20	Computer-l3:	372	620	694
+03:06:05.995	ComputerAperiodic	21	Computer-f4:	378	804	580	937
+03:06:05.996	ComputerAperiodic	21	Computer-l4:	744	666	779	382
+03:06:16.930	ComputerAperiodic	22	Computer-f4:	618	793	930	374
+03:06:16.930	ComputerAperiodic	22	Computer-l5:	566	508	924	413	820
+03:06:28.055	ComputerAperiodic	23	Computer-f4:	819	704	474	710
+03:06:28.056	ComputerAperiodic	23	Computer-l5:	571	909	412	382	957
+03:06:37.523	ComputerAperiodic	24	Computer-f4:	773	639	774	559
+03:06:37.524	ComputerAperiodic	24	Computer-l3:	851	483	549
+03:06:48.742	ComputerAperiodic	25	Computer-f4:	600	878	669	942
+03:06:48.742	ComputerAperiodic	25	Computer-l5:	763	442	607	404	634
+03:06:58.321	ComputerAperiodic	26	Computer-f4:	708	875	550	334
+03:06:58.321	ComputerAperiodic	26	Computer-l3:	773	488	902
+03:07:08.931	ComputerAperiodic	27	Computer-f4:	828	516	711	766
+03:07:08.932	ComputerAperiodic	27	Computer-l4:	414	842	336	868
+03:07:18.789	ComputerAperiodic	28	Computer-f4:	901	517	573	911
+03:07:18.790	ComputerAperiodic	28	Computer-l4:	610	375	949	453
+03:07:29.491	ComputerAperiodic	29	Computer-f4:	391	433	864	461
+03:07:29.491	ComputerAperiodic	29	Computer-l4:	813	882	956	479
+03:07:39.821	ComputerAperiodic	30	Computer-f4:	774	813	405	606
+03:07:39.822	ComputerAperiodic	30	Computer-l4:	779	627	564	718
+03:09:16.121	ComputerAligned	1	User-f4:	732	666	640	680
+03:09:16.124	ComputerAligned	1	Computer-l5:	732	666	640	680	679
+03:09:28.930	ComputerAligned	2	User-f4:	991	672	617	631
+03:09:28.931	ComputerAligned	2	Computer-l5:	991	672	617	631	727
+03:09:40.162	ComputerAligned	3	User-f4:	640	704	672	655
+03:09:40.162	ComputerAligned	3	Computer-l3:	640	704	672
+03:09:52.006	ComputerAligned	4	User-f4:	647	705	672	688
+03:09:52.009	ComputerAligned	4	Computer-l4:	647	705	672	688
+03:10:01.976	ComputerAligned	5	User-f4:	518	665	687	689
+03:10:01.977	ComputerAligned	5	Computer-l3:	518	665	687
+03:10:13.022	ComputerAligned	6	User-f4:	542	648	649	591
+03:10:13.023	ComputerAligned	6	Computer-l4:	542	648	649	591
+03:10:25.131	ComputerAligned	7	User-f4:	704	727	728	721
+03:10:25.132	ComputerAligned	7	Computer-l3:	704	727	728
+03:10:36.726	ComputerAligned	8	User-f4:	591	672	696	672
+03:10:36.726	ComputerAligned	8	Computer-l5:	591	672	696	672	657
+03:10:46.147	ComputerAligned	9	User-f4:	375	656	640	608
+03:10:46.147	ComputerAligned	9	Computer-l3:	375	656	640
+03:10:57.132	ComputerAligned	10	User-f4:	478	536	352	712
+03:10:57.132	ComputerAligned	10	Computer-l5:	478	536	352	712	519
+03:11:08.038	ComputerAligned	11	User-f4:	591	640	671	704
+03:11:08.038	ComputerAligned	11	Computer-l6:	591	640	671	704	651	651
+03:11:17.525	ComputerAligned	12	User-f4:	335	655	689	608
+03:11:17.526	ComputerAligned	12	Computer-l3:	335	655	689
+03:11:29.789	ComputerAligned	13	User-f4:	494	689	791	808
+03:11:29.790	ComputerAligned	13	Computer-l5:	494	689	791	808	695
+03:11:41.022	ComputerAligned	14	User-f4:	735	631	673	647
+03:11:41.023	ComputerAligned	14	Computer-l3:	735	631	673
+03:11:50.808	ComputerAligned	15	User-f4:	430	624	632	640
+03:11:50.809	ComputerAligned	15	Computer-l3:	430	624	632
+03:12:01.403	ComputerAligned	16	User-f4:	446	681	583	568
+03:12:01.403	ComputerAligned	16	Computer-l4:	446	681	583	568
+03:12:12.820	ComputerAligned	17	User-f4:	599	640	569	639
+03:12:12.821	ComputerAligned	17	Computer-l5:	599	640	569	639	611
+03:12:23.273	ComputerAligned	18	User-f4:	503	560	591	713
+03:12:23.273	ComputerAligned	18	Computer-l6:	503	560	591	713	591	591
+03:12:33.352	ComputerAligned	19	User-f4:	327	608	623	592
+03:12:33.352	ComputerAligned	19	Computer-l6:	327	608	623	592	537	537
+03:12:43.804	ComputerAligned	20	User-f4:	1047	616	696	592
+03:12:43.804	ComputerAligned	20	Computer-l3:	1047	616	696
+03:12:54.089	ComputerAligned	21	User-f4:	632	696	656	680
+03:12:54.089	ComputerAligned	21	Computer-l3:	632	696	656
+03:13:04.146	ComputerAligned	22	User-f4:	446	600	632	632
+03:13:04.147	ComputerAligned	22	Computer-l4:	446	600	632	632
+03:13:14.459	ComputerAligned	23	User-f4:	542	584	640	680
+03:13:14.459	ComputerAligned	23	Computer-l4:	542	584	640	680
+03:13:25.287	ComputerAligned	24	User-f4:	679	673	656	576
+03:13:25.287	ComputerAligned	24	Computer-l4:	679	673	656	576
+03:13:36.695	ComputerAligned	25	User-f4:	615	616	648	624
+03:13:36.696	ComputerAligned	25	Computer-l5:	615	616	648	624	625
+03:13:48.277	ComputerAligned	26	User-f4:	648	640	656	664
+03:13:48.278	ComputerAligned	26	Computer-l5:	648	640	656	664	652
+03:14:02.256	ComputerAligned	27	User-f4:	1976	711	648	616
+03:14:02.256	ComputerAligned	27	Computer-l4:	1976	711	648	616
+03:14:14.383	ComputerAligned	28	User-f4:	615	656	656	664
+03:14:14.384	ComputerAligned	28	Computer-l5:	615	656	656	664	647
+03:14:25.022	ComputerAligned	29	User-f4:	617	655	616	600
+03:14:25.023	ComputerAligned	29	Computer-l4:	617	655	616	600
+03:14:35.069	ComputerAligned	30	User-f4:	639	600	648	632
+03:14:35.070	ComputerAligned	30	Computer-l4:	639	600	648	632
+03:38:18.408	UserActivated	1	User-f4:	188	458	575	816
+03:38:18.411	UserActivated	1	User-l5:	521	471	889	512	640
+03:38:27.637	UserActivated	2	User-f4:	607	496	520	464
+03:38:27.638	UserActivated	2	User-l3:	504	448	448
+03:38:39.432	UserActivated	3	User-f4:	695	456	440	520
+03:38:39.432	UserActivated	3	User-l6:	904	488	464	424	488	881
+03:38:55.836	UserActivated	4	User-f4:	1872	711	617	623
+03:38:55.837	UserActivated	4	User-l6:	512	617	535	569	551	801
+03:39:07.303	UserActivated	5	User-f4:	519	632	576	616
+03:39:07.303	UserActivated	5	User-l6:	624	592	640	704	584	745
+03:39:17.599	UserActivated	6	User-f4:	623	512	608	489
+03:39:17.601	UserActivated	6	User-l5:	503	473	496	455	489
+03:39:27.010	UserActivated	7	User-f4:	631	519	497	543
+03:39:27.010	UserActivated	7	User-l3:	537	464	415
+03:39:38.849	UserActivated	8	User-f4:	663	632	1377	615
+03:39:38.849	UserActivated	8	User-l5:	456	456	504	504	640
+03:39:48.867	UserActivated	9	User-f4:	494	528	497	439
+03:39:48.868	UserActivated	9	User-l5:	417	416	440	488	551
+03:39:58.584	UserActivated	10	User-f4:	534	472	416	848
+03:39:58.584	UserActivated	10	User-l3:	440	449	464
+03:40:09.524	UserActivated	11	User-f4:	616	559	553	495
+03:40:09.524	UserActivated	11	User-l4:	585	639	544	640
+03:40:24.078	UserActivated	12	User-f4:	462	601	455	528
+03:40:24.078	UserActivated	12	User-l4:	441	480	464	791
+03:40:34.058	UserActivated	13	User-f4:	1422	424	728	465
+03:40:34.058	UserActivated	13	User-l3:	416	472	481
+03:40:43.636	UserActivated	14	User-f4:	767	568	537	488
+03:40:43.636	UserActivated	14	User-l3:	512	455	553
+03:40:54.510	UserActivated	15	User-f4:	543	496	417	432
+03:40:54.510	UserActivated	15	User-l5:	440	496	576	689	695
+03:41:06.602	UserActivated	16	User-f4:	1598	505	472	544
+03:41:06.603	UserActivated	16	User-l4:	631	537	591	808
+03:41:24.819	UserActivated	17	User-f4:	1567	631	609	576
+03:41:24.819	UserActivated	17	User-l4:	625	639	688	680
+03:41:38.538	UserActivated	18	User-f4:	728	623	1841	624
+03:41:38.538	UserActivated	18	User-l5:	584	624	664	679	784
+03:41:55.384	UserActivated	19	User-f4:	815	600	599	720
+03:41:55.385	UserActivated	19	User-l4:	616	624	504	528
+03:42:12.932	UserActivated	20	User-f4:	759	936	744	680
+03:42:12.933	UserActivated	20	User-l4:	480	664	616	664
+03:42:30.714	UserActivated	21	User-f4:	831	448	832	448
+03:42:30.714	UserActivated	21	User-l5:	511	465	536	544	832
+03:42:43.741	UserActivated	22	User-f4:	847	536	576	560
+03:42:43.746	UserActivated	22	User-l3:	640	600	592
+03:42:58.190	UserActivated	23	User-f4:	704	584	592	551
+03:42:58.190	UserActivated	23	User-l4:	649	616	688	689
+03:43:11.822	UserActivated	24	User-f4:	1047	560	535	441
+03:43:11.822	UserActivated	24	User-l5:	1023	504	776	1648	624
+03:43:24.303	UserActivated	25	User-f4:	534	488	464	712
+03:43:24.304	UserActivated	25	User-l3:	808	776	488
+03:43:40.225	UserActivated	26	User-f4:	783	481	416	448
+03:43:40.226	UserActivated	26	User-l5:	911	473	535	641	599
+03:43:52.135	UserActivated	27	User-f4:	607	601	584	551
+03:43:52.135	UserActivated	27	User-l4:	576	585	616	633
+03:44:04.716	UserActivated	28	User-f4:	1063	672	552	528
+03:44:04.717	UserActivated	28	User-l4:	568	713	560	551
+03:44:14.696	UserActivated	29	User-f4:	615	528	528	464
+03:44:14.696	UserActivated	29	User-l3:	512	496	520
+03:44:25.197	UserActivated	30	User-f4:	479	536	472	496
+03:44:25.198	UserActivated	30	User-l3:	520	576	625
+03:44:40.929	ComputerAligned	31	User-f4:	459	571	640	647
+03:44:40.930	ComputerAligned	31	Computer-l5:	459	571	640	647	579
+03:58:58.065	UserActivated	1	User-f4:	965	825	713	768
+03:58:58.081	UserActivated	1	User-l6:	624	672	736	567	552	681
+03:59:07.287	UserActivated	2	User-f4:	535	616	480	521
+03:59:07.287	UserActivated	2	User-l3:	471	441	479
+03:59:19.083	UserActivated	3	User-f4:	526	600	577	528
+03:59:19.083	UserActivated	3	User-l5:	735	560	584	711	656
+03:59:30.136	UserActivated	4	User-f4:	615	864	616	536
+03:59:30.137	UserActivated	4	User-l3:	488	440	479
+03:59:44.693	UserActivated	5	User-f4:	478	568	457	743
+03:59:44.694	UserActivated	5	User-l5:	536	512	608	560	569
+03:59:55.398	UserActivated	6	User-f4:	518	600	752	576
+03:59:55.399	UserActivated	6	User-l4:	551	568	608	592
+04:00:05.694	UserActivated	7	User-f4:	607	569	608	631
+04:00:05.695	UserActivated	7	User-l3:	656	656	584
+04:00:15.478	UserActivated	8	User-f4:	511	648	624	609
+04:00:15.478	UserActivated	8	User-l3:	640	664	592
+04:00:27.149	UserActivated	9	User-f4:	688	648	624	657
+04:00:27.150	UserActivated	9	User-l6:	696	632	673	688	616	760
+04:00:38.108	UserActivated	10	User-f4:	526	624	857	712
+04:00:38.109	UserActivated	10	User-l4:	751	680	576	552
+04:00:49.428	UserActivated	11	User-f4:	567	641	656	688
+04:00:49.428	UserActivated	11	User-l4:	728	648	688	656
+04:01:00.884	UserActivated	12	User-f4:	671	648	648	656
+04:01:00.885	UserActivated	12	User-l6:	624	688	640	713	744	736
+04:01:12.573	UserActivated	13	User-f4:	775	560	472	520
+04:01:12.573	UserActivated	13	User-l5:	576	656	656	705	687
+04:01:23.541	UserActivated	14	User-f4:	688	823	617	624
+04:01:23.541	UserActivated	14	User-l3:	600	801	759
+04:01:35.714	UserActivated	15	User-f4:	663	625	623	617
+04:01:35.714	UserActivated	15	User-l5:	647	617	696	744	832
+04:01:47.871	UserActivated	16	User-f4:	1134	672	632	600
+04:01:47.871	UserActivated	16	User-l5:	600	688	816	696	656
+04:02:00.557	UserActivated	17	User-f4:	863	632	680	648
+04:02:00.558	UserActivated	17	User-l5:	640	704	688	688	689
+04:02:11.100	UserActivated	18	User-f4:	767	656	656	608
+04:02:11.100	UserActivated	18	User-l3:	663	649	687
+04:02:22.354	UserActivated	19	User-f4:	534	697	663	633
+04:02:22.355	UserActivated	19	User-l4:	607	664	632	648
+04:02:37.184	UserActivated	20	User-f4:	624	688	688	752
+04:02:37.185	UserActivated	20	User-l4:	616	712	672	744
+04:02:58.193	UserActivated	21	User-f4:	559	671	593	616
+04:02:58.194	UserActivated	21	User-l4:	655	664	712	920
+04:03:11.005	UserActivated	22	User-f4:	478	617	591	672
+04:03:11.006	UserActivated	22	User-l3:	680	656	728
+04:03:21.212	UserActivated	23	User-f4:	487	583	761	648
+04:03:21.212	UserActivated	23	User-l3:	640	632	656
+04:03:31.137	UserActivated	24	User-f4:	608	592	568	568
+04:03:31.138	UserActivated	24	User-l3:	592	624	712
+04:03:41.963	UserActivated	25	User-f4:	542	648	672	640
+04:03:41.964	UserActivated	25	User-l4:	608	672	696	768
+04:03:55.131	UserActivated	26	User-f4:	599	592	591	600
+04:03:55.131	UserActivated	26	User-l5:	768	624	696	736	768
+04:04:06.085	UserActivated	27	User-f4:	744	592	568	568
+04:04:06.085	UserActivated	27	User-l4:	551	584	673	640
+04:04:18.241	UserActivated	28	User-f4:	543	640	608	664
+04:04:18.242	UserActivated	28	User-l5:	608	648	680	728	880
+04:04:35.648	UserActivated	29	User-f4:	1479	616	495	472
+04:04:35.649	UserActivated	29	User-l5:	793	480	920	520	688
+04:04:57.161	UserActivated	30	User-f4:	2726	1257	672	576
+04:04:57.161	UserActivated	30	User-l4:	800	776	728	664
+04:08:08.133	ComputerRhythmic	31	Computer-f4:	260	260	260	260
+04:08:08.133	ComputerRhythmic	31	Computer-l6:	260	260	260	260	260	260
+04:08:14.383	ComputerRhythmic	32	Computer-f4:	260	260	260	260
+04:08:14.384	ComputerRhythmic	32	Computer-l3:	260	260	260
+04:08:22.431	ComputerRhythmic	33	Computer-f4:	260	260	260	260
+04:08:22.431	ComputerRhythmic	33	Computer-l5:	260	260	260	260	260
+04:08:28.912	ComputerRhythmic	34	Computer-f4:	260	260	260	260
+04:08:28.912	ComputerRhythmic	34	Computer-l3:	260	260	260
+04:08:37.130	ComputerRhythmic	35	Computer-f4:	260	260	260	260
+04:08:37.131	ComputerRhythmic	35	Computer-l5:	260	260	260	260	260
+04:08:44.457	ComputerRhythmic	36	Computer-f4:	260	260	260	260
+04:08:44.457	ComputerRhythmic	36	Computer-l4:	260	260	260	260
+04:08:51.254	ComputerRhythmic	37	Computer-f4:	260	260	260	260
+04:08:51.255	ComputerRhythmic	37	Computer-l3:	260	260	260
+04:08:57.365	ComputerRhythmic	38	Computer-f4:	260	260	260	260
+04:08:57.366	ComputerRhythmic	38	Computer-l3:	260	260	260
+04:09:05.364	ComputerRhythmic	39	Computer-f4:	260	260	260	260
+04:09:05.364	ComputerRhythmic	39	Computer-l6:	260	260	260	260	260	260
+04:09:16.504	ComputerRhythmic	40	Computer-f4:	260	260	260	260
+04:09:16.504	ComputerRhythmic	40	Computer-l4:	260	260	260	260
+04:09:24.316	ComputerRhythmic	41	Computer-f4:	260	260	260	260
+04:09:24.317	ComputerRhythmic	41	Computer-l4:	260	260	260	260
+04:09:32.021	ComputerRhythmic	42	Computer-f4:	260	260	260	260
+04:09:32.022	ComputerRhythmic	42	Computer-l6:	260	260	260	260	260	260
+04:09:38.677	ComputerRhythmic	43	Computer-f4:	260	260	260	260
+04:09:38.677	ComputerRhythmic	43	Computer-l5:	260	260	260	260	260
+04:09:45.144	ComputerRhythmic	44	Computer-f4:	260	260	260	260
+04:09:45.144	ComputerRhythmic	44	Computer-l3:	260	260	260
+04:09:51.738	ComputerRhythmic	45	Computer-f4:	260	260	260	260
+04:09:51.739	ComputerRhythmic	45	Computer-l5:	260	260	260	260	260
+04:09:58.272	ComputerRhythmic	46	Computer-f4:	260	260	260	260
+04:09:58.273	ComputerRhythmic	46	Computer-l5:	260	260	260	260	260
+04:10:05.551	ComputerRhythmic	47	Computer-f4:	260	260	260	260
+04:10:05.552	ComputerRhythmic	47	Computer-l5:	260	260	260	260	260
+04:10:12.363	ComputerRhythmic	48	Computer-f4:	260	260	260	260
+04:10:12.363	ComputerRhythmic	48	Computer-l3:	260	260	260
+04:10:19.911	ComputerRhythmic	49	Computer-f4:	260	260	260	260
+04:10:19.911	ComputerRhythmic	49	Computer-l4:	260	260	260	260
+04:10:26.940	ComputerRhythmic	50	Computer-f4:	260	260	260	260
+04:10:26.941	ComputerRhythmic	50	Computer-l4:	260	260	260	260
+04:10:34.131	ComputerRhythmic	51	Computer-f4:	260	260	260	260
+04:10:34.131	ComputerRhythmic	51	Computer-l4:	260	260	260	260
+04:10:41.910	ComputerRhythmic	52	Computer-f4:	260	260	260	260
+04:10:41.910	ComputerRhythmic	52	Computer-l3:	260	260	260
+04:10:48.722	ComputerRhythmic	53	Computer-f4:	260	260	260	260
+04:10:48.722	ComputerRhythmic	53	Computer-l3:	260	260	260
+04:10:59.393	ComputerRhythmic	54	Computer-f4:	260	260	260	260
+04:10:59.394	ComputerRhythmic	54	Computer-l3:	260	260	260
+04:11:06.658	ComputerRhythmic	55	Computer-f4:	260	260	260	260
+04:11:06.659	ComputerRhythmic	55	Computer-l4:	260	260	260	260
+04:11:13.489	ComputerRhythmic	56	Computer-f4:	260	260	260	260
+04:11:13.490	ComputerRhythmic	56	Computer-l5:	260	260	260	260	260
+04:11:20.379	ComputerRhythmic	57	Computer-f4:	260	260	260	260
+04:11:20.380	ComputerRhythmic	57	Computer-l4:	260	260	260	260
+04:11:27.613	ComputerRhythmic	58	Computer-f4:	260	260	260	260
+04:11:27.614	ComputerRhythmic	58	Computer-l5:	260	260	260	260	260
+04:11:34.628	ComputerRhythmic	59	Computer-f4:	260	260	260	260
+04:11:34.628	ComputerRhythmic	59	Computer-l5:	260	260	260	260	260
+04:11:41.269	ComputerRhythmic	60	Computer-f4:	260	260	260	260
+04:11:41.269	ComputerRhythmic	60	Computer-l4:	260	260	260	260
+04:12:00.222	ComputerAperiodic	61	Computer-f4:	944	397	821	612
+04:12:00.222	ComputerAperiodic	61	Computer-l5:	522	985	538	496	624
+04:12:16.690	ComputerAperiodic	62	Computer-f4:	842	785	408	831
+04:12:16.690	ComputerAperiodic	62	Computer-l5:	550	777	592	418	737
+04:12:29.582	ComputerAperiodic	63	Computer-f4:	565	981	649	441
+04:12:29.582	ComputerAperiodic	63	Computer-l5:	963	531	770	432	613
+05:20:54.605	ComputerRhythmic	1	Computer-f4:	660	660	660	660
+05:20:54.607	ComputerRhythmic	1	Computer-l4:	660	660	660	660
+05:21:05.511	ComputerRhythmic	2	Computer-f4:	660	660	660	660
+05:21:05.512	ComputerRhythmic	2	Computer-l4:	660	660	660	660
+05:35:27.026	ComputerRhythmic	1	Computer-f4:	285	285	285	285
+05:35:27.029	ComputerRhythmic	1	Computer-l4:	285	285	285	285
+05:35:33.871	ComputerRhythmic	2	Computer-f4:	285	285	285	285
+05:35:33.872	ComputerRhythmic	2	Computer-l4:	285	285	285	285
+05:35:43.019	ComputerRhythmic	3	Computer-f4:	285	285	285	285
+05:35:43.019	ComputerRhythmic	3	Computer-l4:	285	285	285	285
+05:35:50.304	ComputerRhythmic	4	Computer-f4:	285	285	285	285
+05:35:50.305	ComputerRhythmic	4	Computer-l4:	285	285	285	285
+05:35:57.566	ComputerRhythmic	5	Computer-f4:	285	285	285	285
+05:35:57.567	ComputerRhythmic	5	Computer-l6:	285	285	285	285	285	285
+05:36:04.347	ComputerRhythmic	6	Computer-f4:	285	285	285	285
+05:36:04.348	ComputerRhythmic	6	Computer-l5:	285	285	285	285	285
+05:36:10.863	ComputerRhythmic	7	Computer-f4:	285	285	285	285
+05:36:10.863	ComputerRhythmic	7	Computer-l4:	285	285	285	285
+05:36:17.509	ComputerRhythmic	8	Computer-f4:	285	285	285	285
+05:36:17.510	ComputerRhythmic	8	Computer-l3:	285	285	285
+05:36:25.337	ComputerRhythmic	9	Computer-f4:	285	285	285	285
+05:36:25.337	ComputerRhythmic	9	Computer-l6:	285	285	285	285	285	285
+05:36:32.550	ComputerRhythmic	10	Computer-f4:	285	285	285	285
+05:36:32.550	ComputerRhythmic	10	Computer-l6:	285	285	285	285	285	285
+05:36:40.897	ComputerRhythmic	11	Computer-f4:	285	285	285	285
+05:36:40.897	ComputerRhythmic	11	Computer-l4:	285	285	285	285
+05:36:47.320	ComputerRhythmic	12	Computer-f4:	285	285	285	285
+05:36:47.320	ComputerRhythmic	12	Computer-l3:	285	285	285
+05:36:53.993	ComputerRhythmic	13	Computer-f4:	285	285	285	285
+05:36:53.994	ComputerRhythmic	13	Computer-l4:	285	285	285	285
+05:37:00.602	ComputerRhythmic	14	Computer-f4:	285	285	285	285
+05:37:00.602	ComputerRhythmic	14	Computer-l3:	285	285	285
+05:37:12.675	ComputerRhythmic	15	Computer-f4:	285	285	285	285
+05:37:12.675	ComputerRhythmic	15	Computer-l3:	285	285	285
+05:37:19.117	ComputerRhythmic	16	Computer-f4:	285	285	285	285
+05:37:19.118	ComputerRhythmic	16	Computer-l3:	285	285	285
+05:37:25.519	ComputerRhythmic	17	Computer-f4:	285	285	285	285
+05:37:25.519	ComputerRhythmic	17	Computer-l3:	285	285	285
+05:37:32.738	ComputerRhythmic	18	Computer-f4:	285	285	285	285
+05:37:32.739	ComputerRhythmic	18	Computer-l5:	285	285	285	285	285
+05:37:39.301	ComputerRhythmic	19	Computer-f4:	285	285	285	285
+05:37:39.302	ComputerRhythmic	19	Computer-l3:	285	285	285
+05:37:46.473	ComputerRhythmic	20	Computer-f4:	285	285	285	285
+05:37:46.474	ComputerRhythmic	20	Computer-l5:	285	285	285	285	285
+05:37:53.348	ComputerRhythmic	21	Computer-f4:	285	285	285	285
+05:37:53.349	ComputerRhythmic	21	Computer-l5:	285	285	285	285	285
+05:38:00.130	ComputerRhythmic	22	Computer-f4:	285	285	285	285
+05:38:00.130	ComputerRhythmic	22	Computer-l5:	285	285	285	285	285
+05:38:06.988	ComputerRhythmic	23	Computer-f4:	285	285	285	285
+05:38:06.988	ComputerRhythmic	23	Computer-l5:	285	285	285	285	285
+05:38:14.285	ComputerRhythmic	24	Computer-f4:	285	285	285	285
+05:38:14.285	ComputerRhythmic	24	Computer-l5:	285	285	285	285	285
+05:38:29.192	ComputerAperiodic	25	Computer-f4:	944	397	821	612
+05:38:29.193	ComputerAperiodic	25	Computer-l5:	522	985	538	496	624
+05:38:39.771	ComputerAperiodic	26	Computer-f4:	842	785	408	831
+05:38:39.773	ComputerAperiodic	26	Computer-l5:	550	777	592	418	737
+05:38:54.586	ComputerAperiodic	27	Computer-f4:	565	981	649	441
+05:38:54.587	ComputerAperiodic	27	Computer-l5:	963	531	770	432	613
+05:39:04.879	ComputerAperiodic	28	Computer-f4:	607	947	572	717
+05:39:04.880	ComputerAperiodic	28	Computer-l4:	448	725	698	560
+05:39:14.051	ComputerAperiodic	29	Computer-f4:	985	474	574	457
+05:39:14.051	ComputerAperiodic	29	Computer-l3:	738	953	435
+05:39:26.275	ComputerAperiodic	30	Computer-f4:	400	978	875	807
+05:39:26.276	ComputerAperiodic	30	Computer-l4:	449	377	852	534
+05:39:36.317	ComputerAperiodic	31	Computer-f4:	437	969	391	935
+05:39:36.317	ComputerAperiodic	31	Computer-l3:	403	836	653
+05:39:48.008	ComputerAperiodic	32	Computer-f4:	795	444	513	804
+05:39:48.008	ComputerAperiodic	32	Computer-l5:	438	789	474	689	989
+05:39:59.114	ComputerAperiodic	33	Computer-f4:	713	841	489	677
+05:39:59.115	ComputerAperiodic	33	Computer-l6:	553	914	454	720	419	811
+05:40:07.976	ComputerAperiodic	34	Computer-f4:	885	590	497	626
+05:40:07.977	ComputerAperiodic	34	Computer-l3:	598	921	498
+05:40:17.225	ComputerAperiodic	35	Computer-f4:	682	467	966	664
+05:40:17.226	ComputerAperiodic	35	Computer-l3:	365	954	532
+05:40:28.022	ComputerAperiodic	36	Computer-f4:	763	353	588	782
+05:40:28.022	ComputerAperiodic	36	Computer-l5:	959	608	494	917	471
+05:40:39.256	ComputerAperiodic	37	Computer-f4:	580	856	664	467
+05:40:39.256	ComputerAperiodic	37	Computer-l4:	851	900	360	596
+05:40:50.569	ComputerAperiodic	38	Computer-f4:	738	787	563	377
+05:40:50.569	ComputerAperiodic	38	Computer-l6:	749	876	621	381	636	879
+05:41:00.569	ComputerAperiodic	39	Computer-f4:	468	410	632	959
+05:41:00.569	ComputerAperiodic	39	Computer-l5:	827	983	339	679	643
+05:41:10.086	ComputerAperiodic	40	Computer-f4:	781	656	495	966
+05:41:10.086	ComputerAperiodic	40	Computer-l3:	621	536	569
+05:41:19.037	ComputerAperiodic	41	Computer-f4:	847	717	541	422
+05:41:19.038	ComputerAperiodic	41	Computer-l3:	781	503	802
+05:41:29.979	ComputerAperiodic	42	Computer-f4:	859	571	492	700
+05:41:29.979	ComputerAperiodic	42	Computer-l6:	742	530	642	718	905	442
+05:41:40.083	ComputerAperiodic	43	Computer-f4:	720	954	543	413
+05:41:40.084	ComputerAperiodic	43	Computer-l4:	735	588	453	867
+05:41:49.526	ComputerAperiodic	44	Computer-f4:	539	914	805	677
+05:41:49.526	ComputerAperiodic	44	Computer-l3:	372	620	694
+05:42:01.397	ComputerAperiodic	45	Computer-f4:	378	804	580	937
+05:42:01.398	ComputerAperiodic	45	Computer-l4:	744	666	779	382
+05:42:13.912	ComputerAperiodic	46	Computer-f4:	618	793	930	374
+05:42:13.912	ComputerAperiodic	46	Computer-l5:	566	508	924	413	820
+05:42:26.520	ComputerAperiodic	47	Computer-f4:	819	704	474	710
+05:42:26.521	ComputerAperiodic	47	Computer-l5:	571	909	412	382	957
+05:42:35.585	ComputerAperiodic	48	Computer-f4:	773	639	774	559
+05:42:35.588	ComputerAperiodic	48	Computer-l3:	851	483	549
+05:42:52.256	UserActivated	49	User-f4:	677	418	432	511
+05:42:52.257	UserActivated	49	User-l5:	528	552	600	592	576
+05:43:02.663	UserActivated	50	User-f4:	462	512	520	520
+05:43:02.663	UserActivated	50	User-l5:	519	488	617	680	720
+05:43:13.743	UserActivated	51	User-f4:	471	623	664	585
+05:43:13.743	UserActivated	51	User-l5:	576	632	648	704	680
+05:43:25.851	UserActivated	52	User-f4:	463	559	673	631
+05:43:25.851	UserActivated	52	User-l4:	632	560	592	640
+05:43:35.380	UserActivated	53	User-f4:	470	553	583	592
+05:43:35.380	UserActivated	53	User-l3:	601	600	655
+05:43:46.026	UserActivated	54	User-f4:	438	593	631	632
+05:43:46.026	UserActivated	54	User-l4:	640	720	737	744
+05:43:55.902	UserActivated	55	User-f4:	479	608	576	584
+05:43:55.902	UserActivated	55	User-l3:	592	600	616
+05:44:08.556	UserActivated	56	User-f4:	583	633	768	607
+05:44:08.556	UserActivated	56	User-l5:	640	648	672	729	695
+05:44:18.897	UserActivated	57	User-f4:	471	472	471	584
+05:44:18.897	UserActivated	57	User-l6:	641	616	624	600	663	680
+05:44:29.022	UserActivated	58	User-f4:	543	632	640	608
+05:44:29.023	UserActivated	58	User-l3:	560	647	633
+05:44:38.975	UserActivated	59	User-f4:	631	616	624	576
+05:44:38.975	UserActivated	59	User-l3:	689	600	600
+05:44:48.912	UserActivated	60	User-f4:	536	519	496	488
+05:44:48.912	UserActivated	60	User-l5:	496	513	599	600	608
+05:44:58.599	UserActivated	61	User-f4:	454	560	536	584
+05:44:58.599	UserActivated	61	User-l4:	544	527	505	552
+05:45:08.711	UserActivated	62	User-f4:	495	528	680	544
+05:45:08.711	UserActivated	62	User-l6:	511	552	544	664	600	656
+05:45:19.725	UserActivated	63	User-f4:	503	607	576	592
+05:45:19.726	UserActivated	63	User-l5:	536	577	672	640	608
+05:45:30.177	UserActivated	64	User-f4:	743	544	448	552
+05:45:30.177	UserActivated	64	User-l3:	592	585	663
+05:45:40.864	UserActivated	65	User-f4:	567	672	640	640
+05:45:40.865	UserActivated	65	User-l3:	623	632	664
+05:45:51.271	UserActivated	66	User-f4:	502	520	560	504
+05:45:51.272	UserActivated	66	User-l6:	560	576	624	640	665	712
+05:46:01.806	UserActivated	67	User-f4:	495	568	505	583
+05:46:01.807	UserActivated	67	User-l4:	688	544	648	608
+05:46:12.194	UserActivated	68	User-f4:	543	527	456	424
+05:46:12.195	UserActivated	68	User-l3:	416	808	473
+05:46:21.900	UserActivated	69	User-f4:	783	473	463	432
+05:46:21.900	UserActivated	69	User-l4:	489	535	584	624
+05:46:34.396	UserActivated	70	User-f4:	2040	479	512	895
+05:46:34.396	UserActivated	70	User-l5:	528	465	480	640	560
+05:46:45.525	UserActivated	71	User-f4:	783	496	456	519
+05:46:45.525	UserActivated	71	User-l5:	504	504	504	632	872
+05:46:54.411	UserActivated	72	User-f4:	463	375	816	472
+05:46:54.412	UserActivated	72	User-l3:	441	472	512
+05:47:09.339	ComputerAligned	73	User-f4:	408	571	583	672
+05:47:09.339	ComputerAligned	73	Computer-l5:	408	571	583	672	558
+05:47:21.427	ComputerAligned	74	User-f4:	886	393	1231	601
+05:47:21.428	ComputerAligned	74	Computer-l5:	886	393	1231	601	777
+05:47:31.367	ComputerAligned	75	User-f4:	414	472	552	504
+05:47:31.367	ComputerAligned	75	Computer-l5:	414	472	552	504	485
+05:47:42.023	ComputerAligned	76	User-f4:	399	567	528	752
+05:47:42.024	ComputerAligned	76	Computer-l4:	399	567	528	752
+05:47:51.631	ComputerAligned	77	User-f4:	478	592	592	607
+05:47:51.631	ComputerAligned	77	Computer-l3:	478	592	592
+05:48:01.396	ComputerAligned	78	User-f4:	542	585	528	560
+05:48:01.397	ComputerAligned	78	Computer-l4:	542	585	528	560
+05:48:11.571	ComputerAligned	79	User-f4:	479	567	632	752
+05:48:11.572	ComputerAligned	79	Computer-l3:	479	567	632
+05:48:20.836	ComputerAligned	80	User-f4:	390	464	497	480
+05:48:20.837	ComputerAligned	80	Computer-l5:	390	464	497	480	457
+05:48:30.522	ComputerAligned	81	User-f4:	319	544	616	640
+05:48:30.522	ComputerAligned	81	Computer-l6:	319	544	616	640	529	529
+05:48:39.492	ComputerAligned	82	User-f4:	455	424	464	400
+05:48:39.493	ComputerAligned	82	Computer-l3:	455	424	464
+05:48:53.100	ComputerAligned	83	User-f4:	1279	576	570	526
+05:48:53.100	ComputerAligned	83	Computer-l3:	1279	576	570
+05:49:10.414	ComputerAligned	84	User-f4:	879	520	737	744
+05:49:10.415	ComputerAligned	84	Computer-l5:	879	520	737	744	720
+05:49:23.398	ComputerAligned	85	User-f4:	207	456	504	448
+05:49:23.398	ComputerAligned	85	Computer-l4:	207	456	504	448
+05:49:32.340	ComputerAligned	86	User-f4:	486	448	432	424
+05:49:32.341	ComputerAligned	86	Computer-l6:	486	448	432	424	447	447
+05:49:45.084	ComputerAligned	87	User-f4:	310	384	952	488
+05:49:45.084	ComputerAligned	87	Computer-l5:	310	384	952	488	533
+05:49:54.084	ComputerAligned	88	User-f4:	191	704	616	448
+05:49:54.084	ComputerAligned	88	Computer-l3:	191	704	616
+05:50:03.870	ComputerAligned	89	User-f4:	423	864	615	536
+05:50:03.871	ComputerAligned	89	Computer-l3:	423	864	615
+05:50:14.554	ComputerAligned	90	User-f4:	575	568	504	559
+05:50:14.555	ComputerAligned	90	Computer-l6:	575	568	504	559	551	551
+05:50:24.320	ComputerAligned	91	User-f4:	479	472	512	503
+05:50:24.320	ComputerAligned	91	Computer-l4:	479	472	512	503
+05:50:33.600	ComputerAligned	92	User-f4:	455	487	480	503
+05:50:33.600	ComputerAligned	92	Computer-l3:	455	487	480
+05:50:43.146	ComputerAligned	93	User-f4:	479	543	512	576
+05:50:43.147	ComputerAligned	93	Computer-l4:	479	543	512	576
+05:50:52.883	ComputerAligned	94	User-f4:	454	513	512	504
+05:50:52.884	ComputerAligned	94	Computer-l5:	454	513	512	504	495
+05:51:03.412	ComputerAligned	95	User-f4:	504	480	576	519
+05:51:03.412	ComputerAligned	95	Computer-l5:	504	480	576	519	519
+05:51:12.151	ComputerAligned	96	User-f4:	478	481	520	464
+05:51:12.151	ComputerAligned	96	Computer-l3:	478	481	520
