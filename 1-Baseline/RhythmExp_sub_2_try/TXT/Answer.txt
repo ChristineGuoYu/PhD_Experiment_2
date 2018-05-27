@@ -1,0 +1,3 @@
+ComputerRhythmic	1	CorrectAnswer::	2060
+ComputerRhythmic	2	CorrectAnswer::	160
+ComputerAperiodic	1	CorrectAnswer::	100
